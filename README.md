@@ -3,6 +3,6 @@
 Este repositório contém meus estudos, anotações e projetos práticos realizados durante o curso de UX Design.
 
 ## 🚀 O que estou estudando:
-- [ ] Wireframing 
+- [ ] Wireframes
 - [ ] Usabilidade
 - [ ] Layout
