@@ -70,3 +70,11 @@ Possui um nível de **detalhe** maior, trazendo mais riqueza visual, com detalhe
 - **Vantagens:** Rápido de criar e custo muito baixo
 - **Foco:**  Estrutura e organização das informações
 
+# 🛠️ Ferramentas
+
+As principais ferramentas para criação de wireframes e protótipos são:
+
+- Figma
+- Adobe XD
+- Illustrator
+- Mockflow
