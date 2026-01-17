@@ -32,7 +32,14 @@ Utilizar uma única cor de destaque (`azul ou vermelho`) apenas para sinalizar *
 
 ## 1. Wireframe de baixa fidelidade
 
-É a melhor forma e mais rápida de tirar ideia da cabeça. Pode ser feira à mão (pepel e caneta) ou em ferramenta digital.
+É a melhor forma e mais rápida de tirar ideia da cabeça. Pode ser feita à mão (papel e caneta) ou em ferramenta digital.
 
-* Objetivo: Rabiscar fluxos e testar conceitos rapidamente.
+* **Objetivo:** Rabiscar fluxos e testar conceitos rapidamente.
 * **Não é mostrada ao cliente**, pois o foco é o brainstorm e a estrutura.
+
+## 2. Wireframe de média fidelidade
+
+Possui um nível de detalhe maior, trazendo mais riqueza visual, com detalhes e funções.
+
+* **Objetivo:** Validar a usabilidade e a hierarquia visual.
+* **Uso:** Testes com usuários e apresentações para stakeholders/clientes.
