@@ -25,3 +25,14 @@ O foco do wireframe é a estrutura, por essa razão, utilizamos apenas `preto, b
 ## ⚠️ Dica
 
 Utilizar uma única cor de destaque (`azul ou vermelho`) apenas para sinalizar **links ou elementos clicáveis**.
+
+---
+
+# 📏 Tipos de Wireframe
+
+## 1. Wireframe de baixa fidelidade
+
+É a melhor forma e mais rápida de tirar ideia da cabeça. Pode ser feira à mão (pepel e caneta) ou em ferramenta digital.
+
+* Objetivo: Rabiscar fluxos e testar conceitos rapidamente.
+* **Não é mostrada ao cliente**, pois o foco é o brainstorm e a estrutura.
