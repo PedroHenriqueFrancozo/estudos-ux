@@ -1,0 +1,1 @@
+- **17/01/2026**: Início do estudo de Usabilidade
