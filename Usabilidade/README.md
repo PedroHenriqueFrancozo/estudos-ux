@@ -1,10 +1,19 @@
 # 📋 Usabilidade 
 
-Usabilidade é a capacidade de ver com que facilidade, eficiência e satisfação que o usuário tenha sucesso na execução de suas tarefas.
+Usabilidade é a capacidade de medir com que **facilidade, eficiência e satisfação** um usuário ter sucesso na execução de suas tarefas dentro de uma interface.
 
-### 📝 Usabilidade: O que é:
+### 📝 Conceitos Principais:
 
-- **Foco:** Facílidade de uso, eficiência, eficácia e satisfação com um produto/interface.
-- **Objetivo:** Permitir que o usuário realize tarefas de forma simples e clara, com o mínimo de esforço cognitivo.
-- **Métricas:** Eficácia (atingir objetivos), Eficiência (recursos usados), Satisfação (conforto), Aprendizagem (facilidade de aprender), Memorização e Segurança.
-- **Exemplos:** Botões claros, fluxo de navegação intuitivo, possibilidade de desfazer ações, feedback claro do sistema. 
+- **Foco:** Facílidade de uso, eficiência, eficácia e satisfação do usuário.
+- **Objetivo:** Permitir que o usuário realize tarefas de forma simples e clara, reduzindo o máximo o **esforço cognitivo**.
+- **Métricas Essenciais:** 
+    - Eficácia: O usuário consegue completar o objetivo?
+    - Eficiência: Quanto tempo e esforço ele leva para completar?
+    - Satisfação: Qual o nível de conforto e aceitação do usuário?
+    - Aprendizagem: É fácil aprender a usar na primeira vez?
+    - Memorização: Se ele ficar tempo sem usar, ele ainda lembra como funciona?
+    - Segurança (Prevenção de Erros): O sistema ajuda o usuário a não errar ou a se recuperar de um erro?
+
+### 💡 Exemplos Práticos:
+
+Botões com nomes claros, fluxos de navegação intuitivos, opção de "desfazer" ações e feedbacks visuais imediatos (ex: uma barra de carregamento).
