@@ -20,7 +20,8 @@ O objetivo principal é que a interface esteja `organizada e limpa`, permitindo 
 O foco do wireframe é a estrutura, por essa razão, utilizamos apenas `preto, branco e tons de cinza`.
 
 * Evitar cores, pois isso pode gerar **discussões** e tirar o foco real que é sobre a **validação da hierarquia e do fluxo**.
-* Os trons de cinza servem de **contraste** para diferenciar o que é um fundo, botão ou campo de texto.
+* Os **trons** de cinza servem de **contraste** para diferenciar o que é um fundo, botão ou campo de texto.
 
 ## ⚠️ Dica
 
+Utilizar uma única cor de destaque (`azul ou vermelho`) apenas para sinalizar **links ou elementos clicáveis**.
