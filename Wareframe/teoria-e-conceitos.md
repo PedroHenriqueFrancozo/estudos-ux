@@ -39,7 +39,13 @@ Utilizar uma única cor de destaque (`azul ou vermelho`) apenas para sinalizar *
 
 ## 2. Wireframe de média fidelidade
 
-Possui um nível de detalhe maior, trazendo mais riqueza visual, com detalhes e funções.
+Possui um nível de **detalhe** maior, trazendo mais riqueza visual, com detalhes e funções.
 
 * **Objetivo:** Validar a usabilidade e a hierarquia visual.
 * **Uso:** Testes com usuários e apresentações para stakeholders/clientes.
+
+## 3. Wireframe de alta fidelidade
+
+É que mais se aproxima do resultado final, faltando apenas aplicar UI (User Interface) nele.
+
+* O que falta: Imagens e cores. Após isso, o projeto visual está pronto.
