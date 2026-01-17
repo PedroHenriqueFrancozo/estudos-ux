@@ -56,4 +56,5 @@ Possui um nível de **detalhe** maior, trazendo mais riqueza visual, com detalhe
 
 É fundamental explicar ao cliente o que é um wireframe antes de apresentá-lo
 
-- **O risco:** Como mutios não conhecem o processo de design, podem interpretar a baixa fidelidade como um **trabalho incompleto ou sem capricho**.
+- **O risco:** Como muitos não conhecem o processo de design, podem interpretar a baixa fidelidade como um **trabalho incompleto ou sem capricho**.
+- **A solução:** Deixar claro que o objetivo ali é validar a **lógica e o esqueleto** do projeto, e que o acabamento visual (UI) será feito em uma etapa posterior. Isso evita frustrações e foca o feedback no que realmente importa naquele momento.
