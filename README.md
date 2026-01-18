@@ -6,3 +6,5 @@ Este repositório contém meus estudos, anotações e projetos práticos realiza
 - [ ] Wireframes
 - [ ] Usabilidade
 - [ ] Layout
+- [ ] Design System
+- [ ] Usabilidade
