@@ -40,7 +40,7 @@ As colunas são definidas por porcentagens (%) em vez de pixels.
 - **Como funciona:** As colunas esticam ou encolhem para preencher o espaço disponível da tela. Se a tela aumenta, a coluna aumenta junto.
 - **Uso:** Essencial para o design moderno e responsivo, garantindo que o site ocupe bem todo o espaço de qualquer monitor.
 
-# 📏 O Sistema de 8pt
+# 📏 O Sistema de 8px
 
 A maioria dos Designers de Interface utiliza o Sistema de 8 pontos. Isso significa que todos os espaçamentos (paddings, margins, alturas de botões) devem ser múltiplos de 8 (8, 16, 24, 32, 40...).
 
