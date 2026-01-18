@@ -45,3 +45,14 @@ As colunas são definidas por porcentagens (%) em vez de pixels.
 A maioria dos Designers de Interface utiliza o Sistema de 8 pontos. Isso significa que todos os espaçamentos (paddings, margins, alturas de botões) devem ser múltiplos de 8 (8, 16, 24, 32, 40...).
 
   - Por que 8? Porque a maioria das telas modernas tem resoluções que são divisíveis por 8, evitando que os elementos fiquem com "meio pixel" e pareçam borrados.
+
+# 📏 Regras de Uso da Grid
+
+- 1. **Alinhamento:** Os elementos principais (cards, botões, imagens) devem sempre começar no início de uma coluna e terminar no final de outra.
+
+- 2. **Calhas (Gutters):** Nunca coloque conteúdo importante dentro da calha. Ela serve apenas como respiro.
+
+- 3. **Quebra de Colunas:** Em telas desktop, é comum usar sub-divisões das 12 colunas:
+    - 4 colunas para cada card (total de 3 cards na linha).
+    - 3 colunas para cada card (total de 4 cards na linha).
+    - 6 colunas para cada bloco (total de 2 blocos na linha).
