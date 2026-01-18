@@ -6,7 +6,7 @@
 
 Pense no Design System como uma biblioteca de "peças de LEGO" padronizadas. Isso evita que, a cada nova página ou frame, você tenha que recriar componentes do zero, garantindo agilidade, padrão e organização ao projeto.
 
-   **O Design System é um organismo vivo:** Ele é definido no início do projeto, mas evolui e sofre modificações conforme as necessidades do produto e dos usuários mudam.
+   - **O Design System é um organismo vivo:** Ele é definido no início do projeto, mas evolui e sofre modificações conforme as necessidades do produto e dos usuários mudam.
 
 ### 🔄️ Consistência do design
 
