@@ -5,11 +5,8 @@
   - Criei guia comparativo entre Wireframe, Protótipo e Mockup.
   - Adicionei seção de "Boas Práticas" e gestão de expectativa do cliente.
 
-- **17/01/2026:** Início do estudo de Usabilidade
-
 - **17/01/2026:** Iniciado o módulo de Usabilidade. Documentei o conceito, objetivo e as métricas principais (Eficácia, Eficiência e Satisfação).
-
-- **17/01/2026:** Estudos focados em Usabilidade e Composição de Layout.
+  - Estudos focados em Usabilidade e Composição de Layout.
   - Definição de métricas de usabilidade (Eficácia, Eficiência e Satisfação).
   - Exploração dos pilares de Layout: Hierarquia Visual, Alinhamento e Proximidade.
   - Organização da documentação teórica em pastas separadas.
@@ -18,3 +15,8 @@
   - Organizei a estrutura de pastas para assets.
   - Documentei a diferença entre Design System e Style Guide.
   - Documentada a diferença entre Arquitetura de Informação, UX e UI.
+
+- **18/01/2026**: Estudo de Sistemas de Grids.
+  - Diferença entre Grids fixas e fluidas.
+  - Aplicação da anatomia de colunas, calhas e margens.
+  - Introdução ao sistema de espaçamento de 8pt para consistência visual.
