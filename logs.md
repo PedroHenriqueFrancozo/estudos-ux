@@ -26,3 +26,7 @@
   - Definição da direção estética do projeto antes da prototipagem.
   - Estudo de Briefing e sua importância no alinhamento de expectativas.
   - Levantamento de requisitos e objetivos para o projeto Streamloan.
+
+  - **18/01/2026**: Evolução do Briefing.
+  - Definição de roteiro para entendimento do Público-Alvo.
+  - Análise de comportamento e necessidades do usuário final.
