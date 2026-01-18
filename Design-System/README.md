@@ -58,15 +58,15 @@ Estados de Feedback (Comunicação):
 
 ### 🖋️ Tipogradia
 Define pesos, tamanhos e famílias de fontes para cada nível de informação (H1, H2, Body, etc).
-![](/assets/ex_Typography.png)
+![Escala tipográfica com definições de tamanhos e pesos de fontes](/assets/ex_Typography.png)
 
 ### 🎨 Paleta de Cores
 Cores primárias, secundárias e neutras, com seus respectivos códigos HEX/RGB.
-![](/assets/ex_Colors.png)
+![Tabela de cores primárias, secundárias e neutras com códigos Hexadecimal](/assets/ex_Colors.png)
 
 ### 🔔 Notificações e Feedbacks
 Padronização de avisos de erro, sucesso e alertas do sistema.
-![](/assets/ex_notification.png)
+![Modelos de componentes para mensagens de erro, sucesso e alerta](/assets/ex_notification.png)
 
 
 
