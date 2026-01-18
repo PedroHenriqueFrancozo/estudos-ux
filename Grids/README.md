@@ -53,6 +53,6 @@ A maioria dos Designers de Interface utiliza o Sistema de 8 pontos. Isso signifi
 - 2. **Calhas (Gutters):** Nunca coloque conteúdo importante dentro da calha. Ela serve apenas como respiro.
 
 - 3. **Quebra de Colunas:** Em telas desktop, é comum usar sub-divisões das 12 colunas:
-    - 4 colunas para cada card (total de 3 cards na linha).
-    - 3 colunas para cada card (total de 4 cards na linha).
-    - 6 colunas para cada bloco (total de 2 blocos na linha).
+    - **4 colunas** para cada card (total de 3 cards na linha).
+    - **3 colunas** para cada card (total de 4 cards na linha).
+    - **6 colunas** para cada bloco (total de 2 blocos na linha).
