@@ -20,3 +20,9 @@
   - Diferença entre Grids fixas e fluidas.
   - Aplicação da anatomia de colunas, calhas e margens.
   - Introdução ao sistema de espaçamento de 8pt para consistência visual.
+
+- **18/01/2026**: Início do processo criativo com Moodboard.
+  - Coleta de referências visuais e conceituais.
+  - Definição da direção estética do projeto antes da prototipagem.
+  - Estudo de Briefing e sua importância no alinhamento de expectativas.
+  - Levantamento de requisitos e objetivos para o projeto Streamloan.
