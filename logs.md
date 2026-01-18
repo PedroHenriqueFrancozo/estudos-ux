@@ -17,3 +17,4 @@
 - **18/01/2026:** Continuação dos estudos de Layout e Design Visual.
   - Organizei a estrutura de pastas para assets.
   - Documentei a diferença entre Design System e Style Guide.
+  - Documentada a diferença entre Arquitetura de Informação, UX e UI.
