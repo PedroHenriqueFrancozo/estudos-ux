@@ -26,6 +26,20 @@ Um Design System robusto inclui:
 
 É um conjunto de diretrizes da marca. Ele detalha o esquema de cores, as propriedades das fontes e as regras de aplicação de cada elemento para auxiliar na execução e garantir a identidade visual. que pode incluir elementos de interface do usuário. Esquema de cores, fontes  e suas propriedades para auxiliar na execução e uso.
 
+### ⚡ Estados dos Componentes
+Para garantir uma boa usabilidade, os componentes devem comunicar visualmente seu estado atual:
+- **Padrão (Default):** O estado inicial do componente.
+- **Hover (Ao passar o mouse):** Indica que o elemento é interativo.
+- **Ativo/Pressionado (Active):** O momento do clique ou toque.
+- **Selecionado (Selected):** Quando o item foi escolhido (ex: uma aba ou checkbox).
+- **Inativo (Disabled):** Quando a ação não está disponível no momento.
+- **Foco (Focused):** Essencial para acessibilidade (navegação via teclado).
+
+Estados de Feedback (Comunicação):
+- **Alerta/Erro:** Indica que algo precisa de atenção ou deu errado.
+- **Confirmação/Sucesso:** Indica que a ação foi concluída com êxito.
+- **Notificação:** Um aviso visual de que há uma nova informação.
+
 ### ⚠️ Dica
 
 **Design System não é um projeto (com início e fim); é um produto que serve outros produtos.**
