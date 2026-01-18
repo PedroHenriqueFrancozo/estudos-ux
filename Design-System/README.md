@@ -15,9 +15,12 @@ A consistência não é apenas na parte gráfica(visual). Ela se estende para:
 - **Comportamento:** Animações e micro-interações.
 - **Funcionalidade:** Ações que o usuário executa e como o sistema responde.
 
-### 🏗️ Composição do Design System
+### 🏗️ Composição 
+Um Design System robusto inclui:
 
-Botões, inputs, cores, calendários, fontes, tipografias, imagens, ícones, animações (motions), gráficos, tabelas, ilustrações, etc.
+- **Elementos Básicos:** Cores, tipografia (fontes), ícones e espaçamentos.
+- **Componentes:** Botões, inputs, calendários, tabelas e gráficos.
+- **Assets:** Imagens, ilustrações e animações (motions).
 
 ### 📖 Guia de Estilo (Guideline)
 
