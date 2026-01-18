@@ -16,6 +16,7 @@ A consistência não é apenas na parte gráfica(visual). Ela se estende para:
 - **Funcionalidade:** Ações que o usuário executa e como o sistema responde.
 
 ### 🏗️ Composição 
+
 Um Design System robusto inclui:
 
 - **Elementos Básicos:** Cores, tipografia (fontes), ícones e espaçamentos.
@@ -27,6 +28,7 @@ Um Design System robusto inclui:
 É um conjunto de diretrizes da marca. Ele detalha o esquema de cores, as propriedades das fontes e as regras de aplicação de cada elemento para auxiliar na execução e garantir a identidade visual. que pode incluir elementos de interface do usuário. Esquema de cores, fontes  e suas propriedades para auxiliar na execução e uso.
 
 ### ⚡ Estados dos Componentes
+
 Para garantir uma boa usabilidade, os componentes devem comunicar visualmente seu estado atual:
 - **Padrão (Default):** O estado inicial do componente.
 - **Hover (Ao passar o mouse):** Indica que o elemento é interativo.
@@ -49,5 +51,23 @@ Estados de Feedback (Comunicação):
 # 🧩 Atomic Design for Streanloan
 
 ![Metodologia Atomic Design](/assets/atomic.png)
+
+---
+
+# 🖼️ Exemplo de um Design System
+
+### 🖋️ Tipogradia
+Define pesos, tamanhos e famílias de fontes para cada nível de informação (H1, H2, Body, etc).
+![](/assets/ex_Tipografia.png)
+
+### 🎨 Paleta de Cores
+Cores primárias, secundárias e neutras, com seus respectivos códigos HEX/RGB.
+![](/assets/ex_Colors.png)
+
+### 🔔 Notificações e Feedbacks
+Padronização de avisos de erro, sucesso e alertas do sistema.
+![](/assets/ex_notification.png)
+
+
 
 
