@@ -20,3 +20,4 @@ O **Moodboard** é uma colagem de referências visuais que serve para definir a 
 - **Pinterest:** Excelente para referências de fotografia e "lifestyle".
 - **Dribbble / Behance:** Ótimos para referências específicas de UI (Interface).
 - **Miro ou o próprio Figma:** Organizar as colagens.
+
