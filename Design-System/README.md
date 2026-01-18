@@ -34,6 +34,6 @@ Um Design System robusto inclui:
 
 # 🧩 Atomic Design for Streanloan
 
-![alt text](assets/image.png)
+![Metodologia Atomic Design](/assets/atomic.png)
 
 
