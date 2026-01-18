@@ -24,7 +24,7 @@ Um Design System robusto inclui:
 
 ### 📖 Guia de Estilo (Guideline)
 
-é um conjunto de diretrizes da marca da empresa, que pode incluir elementos de interface do usuário. Esquema de cores, fontes  e suas propriedades para auxiliar na execução e uso.
+É um conjunto de diretrizes da marca. Ele detalha o esquema de cores, as propriedades das fontes e as regras de aplicação de cada elemento para auxiliar na execução e garantir a identidade visual. que pode incluir elementos de interface do usuário. Esquema de cores, fontes  e suas propriedades para auxiliar na execução e uso.
 
 ### ⚠️ Dica
 
@@ -34,6 +34,6 @@ Um Design System robusto inclui:
 
 # 🧩 Atomic Design for Streanloan
 
-![alt text](README.md/assets/image.png)
+![alt text](/assets/image.png)
 
 
