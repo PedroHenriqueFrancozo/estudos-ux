@@ -30,3 +30,7 @@
   - **18/01/2026**: Evolução do Briefing.
   - Definição de roteiro para entendimento do Público-Alvo.
   - Análise de comportamento e necessidades do usuário final.
+
+  - **18/01/2026**: Finalização do roteiro de Briefing.
+  - Estruturação de perguntas essenciais sobre Empresa e Projeto.
+  - Definição de requisitos técnicos (Responsividade, Funcionalidades, Sitemap).
