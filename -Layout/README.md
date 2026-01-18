@@ -15,3 +15,13 @@ Layout é o arranjo e a organização dos elementos visuais em uma página ou te
 # 💡 Dica
 
 No layout, **"menos é mais"**. O objetivo é facilitar a leitura, não apenas preencher espaços.
+
+---
+
+# 👁️ Exemplo Prático: Hierarquia Visual
+Imagine uma tela de um aplicativo. Sem hierarquia, todos os textos teriam o mesmo tamanho. Com hierarquia, guiamos o olho do usuário:
+
+- 1. Título Principal (H1): Grande e em negrito (O que é isso?).
+- 2. Subtítulo: Menor e com cor mais suave (Do que se trata?).
+- 3. Corpo do Texto: Tamanho padrão para leitura (Detalhes).
+- 4. Botão (CTA): Cor de destaque e posição isolada (O que devo fazer agora?).
