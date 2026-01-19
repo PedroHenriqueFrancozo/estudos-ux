@@ -19,6 +19,7 @@ Existem duas formas principais de organizar o conteúdo:
 ### 2. Estruturas de Organização (Como as páginas se ligam)
 
 Isso define a "forma" do site ou app:
-    **Hierárquica (Árvore):** É a mais comum. Uma página principal (Home) que se ramifica em categorias e subcategorias.
-    **Sequencial (Linear):** Usada para processos passo a passo. (Ex: O fluxo de pedido de empréstimo do seu Streamloan).
-    **Matricial:** O usuário pode escolher diferentes caminhos para chegar ao mesmo lugar através de filtros e links cruzados.
+
+- **Hierárquica (Árvore):** É a mais comum. Uma página principal (Home) que se ramifica em categorias e subcategorias.
+- **Sequencial (Linear):** Usada para processos passo a passo. (Ex: O fluxo de pedido de empréstimo do seu Streamloan).
+- **Matricial:** O usuário pode escolher diferentes caminhos para chegar ao mesmo lugar através de filtros e links cruzados.
