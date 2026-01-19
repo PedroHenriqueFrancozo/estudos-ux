@@ -46,3 +46,8 @@
   - Noções de Sistemas de Busca e Navegação.
   - Estudo de Card Sorting como ferramenta de validação.
   - Uso de post-its para organizar categorias e títulos.
+
+- **19/01/2026**: Estudo de Sistemas de Navegação.
+  - Diferenciação entre navegação Global, Local e Contextual.
+  - Uso de Breadcrumbs e Rodapés como suporte ao usuário.
+  - Importância do feedback visual para localização (Active States).
