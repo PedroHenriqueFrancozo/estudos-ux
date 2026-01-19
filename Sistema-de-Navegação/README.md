@@ -15,3 +15,8 @@ O sistema de navegação permite que o usuário saiba onde está, de onde veio e
 São os links que aparecem "no meio" do conteúdo.
 - **Links de "Veja também":** Direcionam o usuário para assuntos relacionados.
 - **Hiperlinks no texto:** Palavras clicáveis que levam a definições ou páginas externas.
+
+### 3. Mecanismos de Auxílio
+
+- **Navegação por Busca:** Quando o usuário sabe exatamente o que quer e usa a barra de pesquisa para "pular" a navegação tradicional.
+- **Filtros:** Essenciais em e-commerces e dashboards para refinar grandes quantidades de dados.
