@@ -8,3 +8,7 @@ Este repositório contém meus estudos, anotações e projetos práticos realiza
 - [ ] Layout
 - [ ] Design System
 - [ ] Usabilidade
+- [ ] Briefing
+- [ ] MoodBoard
+- [ ] Sistema de Organização
+- [ ] Sistema de Rotulação
