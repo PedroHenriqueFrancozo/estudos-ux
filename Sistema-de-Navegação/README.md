@@ -9,3 +9,9 @@ O sistema de navegação permite que o usuário saiba onde está, de onde veio e
     - **Sitemaps (Mapa do site):** Uma lista textual de todas as páginas.
     - **Breadcrumbs (Trilha de migalhas):** Indica o caminho hierárquico (Ex: Home > Crédito > Empréstimo Pessoal).
     - **Rodapé (Footer):** Contém links secundários, contatos e redes sociais.
+
+### 2. Navegação Contextual
+
+São os links que aparecem "no meio" do conteúdo.
+- **Links de "Veja também":** Direcionam o usuário para assuntos relacionados.
+- **Hiperlinks no texto:** Palavras clicáveis que levam a definições ou páginas externas.
