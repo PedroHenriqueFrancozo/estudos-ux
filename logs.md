@@ -34,3 +34,8 @@
   - **18/01/2026**: Finalização do roteiro de Briefing.
   - Estruturação de perguntas essenciais sobre Empresa e Projeto.
   - Definição de requisitos técnicos (Responsividade, Funcionalidades, Sitemap).
+
+- **19/01/2026**: Estudo sobre Sistemas de Organização.
+  - Diferenciação entre esquemas exatos e ambíguos.
+  - Definição de estruturas hierárquicas e sequenciais (fluxos).
+  - Aplicação de rotulagem e categorização de conteúdo.
