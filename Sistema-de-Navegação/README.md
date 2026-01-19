@@ -20,3 +20,8 @@ São os links que aparecem "no meio" do conteúdo.
 
 - **Navegação por Busca:** Quando o usuário sabe exatamente o que quer e usa a barra de pesquisa para "pular" a navegação tradicional.
 - **Filtros:** Essenciais em e-commerces e dashboards para refinar grandes quantidades de dados.
+
+---
+
+# 💡 Dica: Onde estou?
+Indicar visualmente a página atual no menu. Usar cores diferentes, negrito ou uma linha abaixo do item do menu para o usuário nunca se sentir perdido.
