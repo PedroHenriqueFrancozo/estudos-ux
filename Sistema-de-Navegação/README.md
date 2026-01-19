@@ -1,7 +1,7 @@
 # 🧭 Sistemas de Navegação
 O sistema de navegação permite que o usuário saiba onde está, de onde veio e para onde pode ir. Uma boa navegação deve ser intuitiva e exigir o mínimo de esforço cognitivo.
 
-# 1. Tipos de Navegação
+### 1. Tipos de Navegação
 
 - **Navegação Global:** É o menu principal, geralmente no topo ou na lateral. Ele dá acesso às seções mais importantes e deve estar presente em todas as páginas do site.
 - **Navegação Local:** Ajuda o usuário a explorar o conteúdo dentro de uma seção específica. (Ex: Um menu lateral dentro da página "Configurações" que mostra "Perfil", "Senha" e "Privacidade").
