@@ -7,9 +7,9 @@ Os sistemas de organização definem como agrupamos os dados e as informações 
 Existem duas formas principais de organizar o conteúdo:
 
 - Esquemas Exatos: São objetivos e não abrem margem para dúvida.
-    -**Alfabético:** (Ex: Listas de contatos, dicionários).
-    -**Cronológico:** (Ex: Histórico de transações, posts de blog).
-    -**Geográfico:** (Ex: Localização de agências, entrega por região).
+    - **Alfabético:** (Ex: Listas de contatos, dicionários).
+    - **Cronológico:** (Ex: Histórico de transações, posts de blog).
+    - **Geográfico:** (Ex: Localização de agências, entrega por região).
 
 - Esquemas Ambíguos: Dependem da interpretação do usuário e são mais subjetivos.
     - **Por Tópico/Assunto**: (Ex: "Investimentos", "Empréstimos", "Seguros").
