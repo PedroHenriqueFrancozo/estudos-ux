@@ -39,3 +39,10 @@
   - Diferenciação entre esquemas exatos e ambíguos.
   - Definição de estruturas hierárquicas e sequenciais (fluxos).
   - Aplicação de rotulagem e categorização de conteúdo.
+
+- **19/01/2026**: Estudo de Arquitetura de Informação.
+  - Sistemas de Organização (Esquemas e Estruturas).
+  - Sistemas de Rotulação (Consistência e Clareza).
+  - Noções de Sistemas de Busca e Navegação.
+  - Estudo de Card Sorting como ferramenta de validação.
+  - Uso de post-its para organizar categorias e títulos.
