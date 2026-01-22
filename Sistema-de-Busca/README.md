@@ -28,3 +28,9 @@ Nunca deixar o usuário em um beco sem saída. Se a busca não retornar nada:
 - Informe claramente que nada foi encontrado.
 - Sugira termos relacionados.
 - Ofereça o contato do suporte ou um link para a Home.
+
+---
+
+# 💡 Dica: Analisando as buscas
+
+Os termos que os usuários digitam na barra de busca são uma mina de ouro. Eles revelam o que o usuário quer, mas não está conseguindo encontrar facilmente pelo menu. Isso ajuda a ajustar a rotulação ou a navegação global.
