@@ -56,3 +56,6 @@
   - Importância da busca em interfaces densas.
   - Uso de filtros, facetas e auto-complete para refinar resultados.
   - Estratégias para páginas de "Nenhum resultado encontrado".
+  - Análise comportamental do usuário (quem, por que, quando e como).
+  - Estudo de ferramentas de SEO e tendências (Google Trends/Adwords).
+  - Uso de mapas de calor para validar a eficiência da busca.
