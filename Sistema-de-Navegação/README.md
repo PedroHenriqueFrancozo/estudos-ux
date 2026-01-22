@@ -25,3 +25,11 @@ São os links que aparecem "no meio" do conteúdo.
 
 # 💡 Dica: Onde estou?
 Indicar visualmente a página atual no menu. Usar cores diferentes, negrito ou uma linha abaixo do item do menu para o usuário nunca se sentir perdido.
+
+---
+
+# 🗺️ Anatomia do Breadcrumb
+Ele geralmente aparece no topo da página, logo abaixo do menu principal, e tem este formato:
+
+**Home > Finanças > Empréstimos > Solicitação**
+
