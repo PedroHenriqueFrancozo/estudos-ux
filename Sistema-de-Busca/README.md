@@ -31,6 +31,19 @@ Nunca deixar o usuário em um beco sem saída. Se a busca não retornar nada:
 
 ---
 
+### 🧠 Entendendo as Necessidades de Busca
+Antes de desenhar, é preciso entender o comportamento do usuário:
+
+- **Perfil do Usuário:** Quem busca? (Gênero, idade, nível de conhecimento técnico).
+- **Localização da Busca:** A pesquisa é interna (dentro do seu conteúdo) ou externa (buscando no Google para cair no seu site)?
+- **Motivação:** Por que ele busca em vez de navegar? (Pressa, não encontrou no menu, termo específico).
+- **Tipo de Conteúdo:** O que ele espera encontrar? (Um arquivo PDF, um vídeo tutorial, um produto específico ou um post de blog).
+- **Contexto Temporal:** Quando ele busca? (Isso ajuda a entender a urgência ou o hábito de consumo).
+- **Experiência de Entrega:** Como o resultado aparece? (Um modal rápido, um dropdown de sugestões ou uma nova página de resultados).
+
+---
+
 # 💡 Dica: Analisando as buscas
 
 Os termos que os usuários digitam na barra de busca são uma mina de ouro. Eles revelam o que o usuário quer, mas não está conseguindo encontrar facilmente pelo menu. Isso ajuda a ajustar a rotulação ou a navegação global.
+
