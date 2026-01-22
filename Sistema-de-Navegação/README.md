@@ -1,4 +1,5 @@
 # 🧭 Sistemas de Navegação
+
 O sistema de navegação permite que o usuário saiba onde está, de onde veio e para onde pode ir. Uma boa navegação deve ser intuitiva e exigir o mínimo de esforço cognitivo.
 
 ### 1. Tipos de Navegação
@@ -33,3 +34,8 @@ Ele geralmente aparece no topo da página, logo abaixo do menu principal, e tem 
 
 **Home > Finanças > Empréstimos > Solicitação**
 
+# ⚠️ Regras
+
+- **O último item não é clicável:** O último nome na trilha é a página onde o usuário já está, por isso ele deve aparecer apenas como texto (geralmente em negrito), sem link.
+- **Use separadores claros:** Utilize símbolos como `>`, `/` ou `»` para indicar a hierarquia.
+- **Tamanho discreto:** O breadcrumb não deve ser o foco principal da página. Ele deve ser visível, mas menor que o menu principal.
