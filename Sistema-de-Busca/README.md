@@ -21,3 +21,10 @@ Em sistemas complexos, a busca vem acompanhada de **Filtros** para refinar os re
 
 - **Exemplo:** Se eu busco por "celular", o sistema me permite filtrar por "marca", "preço" ou "cor".
 
+### 4. A Regra de Ouro: "Nenhum resultado encontrado"
+
+Nunca deixar o usuário em um beco sem saída. Se a busca não retornar nada:
+
+- Informe claramente que nada foi encontrado.
+- Sugira termos relacionados.
+- Ofereça o contato do suporte ou um link para a Home.
