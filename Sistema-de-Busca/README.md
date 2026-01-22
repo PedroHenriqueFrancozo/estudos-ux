@@ -14,3 +14,10 @@ Para que uma busca seja realmente útil, ela precisa de:
 - **Caixa de Entrada (Input):** Deve ser fácil de encontrar (geralmente no topo à direita ou centro).
 - **Auto-complete (Sugestões):** Ajuda o usuário a digitar menos e evita erros de ortografia.
 - **Página de Resultados (SERP):** Onde os itens encontrados são listados.
+
+### 3. Filtros e Facetas
+
+Em sistemas complexos, a busca vem acompanhada de **Filtros** para refinar os resultados.
+
+- **Exemplo:** Se eu busco por "celular", o sistema me permite filtrar por "marca", "preço" ou "cor".
+
