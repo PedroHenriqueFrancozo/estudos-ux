@@ -51,3 +51,8 @@
   - Diferenciação entre navegação Global, Local e Contextual.
   - Uso de Breadcrumbs e Rodapés como suporte ao usuário.
   - Importância do feedback visual para localização (Active States).
+
+- **21/01/2026**: Estudo de Sistemas de Busca.
+  - Importância da busca em interfaces densas.
+  - Uso de filtros, facetas e auto-complete para refinar resultados.
+  - Estratégias para páginas de "Nenhum resultado encontrado".
