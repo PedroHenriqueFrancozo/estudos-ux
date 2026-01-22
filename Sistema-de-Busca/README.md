@@ -41,6 +41,13 @@ Antes de desenhar, é preciso entender o comportamento do usuário:
 - **Contexto Temporal:** Quando ele busca? (Isso ajuda a entender a urgência ou o hábito de consumo).
 - **Experiência de Entrega:** Como o resultado aparece? (Um modal rápido, um dropdown de sugestões ou uma nova página de resultados).
 
+# 🛠️ Ferramentas de Análise e Planejamento
+Para validar o que deve ser priorizado na busca e na rotulação:
+
+- **Google Adwords & Planejador de Palavras-Chave:** Para descobrir quais termos as pessoas realmente usam para procurar o serviço.
+- **Google Trends:** Para entender tendências de busca por região e sazonalidade de termos.
+- **Mapa de Calor (Heatmaps):** Ferramentas como Hotjar ou Microsoft Clarity que mostram onde os usuários mais clicam e se eles estão ignorando o menu para usar apenas a busca.
+
 ---
 
 # 💡 Dica: Analisando as buscas
