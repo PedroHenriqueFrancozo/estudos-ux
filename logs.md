@@ -59,3 +59,7 @@
   - Análise comportamental do usuário (quem, por que, quando e como).
   - Estudo de ferramentas de SEO e tendências (Google Trends/Adwords).
   - Uso de mapas de calor para validar a eficiência da busca.
+
+- **23/01/2026**: Definição de Arquitetura da Informação (AI).
+  - Entendimento da AI como a base estrutural de um projeto.
+  - Foco em reduzira carga cognitiva e melhorar a encontrabilidade.
