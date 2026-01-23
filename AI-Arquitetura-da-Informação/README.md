@@ -16,3 +16,20 @@ O design deve se adaptar às limitações e habilidades do usuário:
 - **Jovens/Adultos:** Foco em agilidade, estética moderna e atalhos.
 - **Idosos:** Necessidade de alto contraste, fontes maiores e caminhos muito claros (sem ambiguidades).
 
+# 📱 2. O Contexto do Dispositivo (Onde?)
+O "Onde" define as limitações técnicas e físicas do seu design:
+
+- **Mobile (Celular):** * Uso com apenas uma mão (Zona de alcance do polegar).
+    - Interrupções constantes (notificações).
+    - Foco em ações rápidas.
+
+- **Desktop (Computador):**
+    - Mais precisão com o mouse.
+    - Telas grandes que permitem exibir mais informações simultâneas.
+    - Uso em ambientes de maior concentração (trabalho/estudo).
+
+- **Tablets:** * Um meio-termo entre o toque e a tela grande.
+    - Muito usado para consumo de mídia e leitura.
+
+- **Smart TV:** * Navegação por controle remoto (apenas setas e "OK").
+    - O usuário está longe da tela (interface precisa ser gigante e simples).
