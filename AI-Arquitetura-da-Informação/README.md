@@ -33,3 +33,6 @@ O "Onde" define as limitações técnicas e físicas do seu design:
 
 - **Smart TV:** * Navegação por controle remoto (apenas setas e "OK").
     - O usuário está longe da tela (interface precisa ser gigante e simples).
+
+# 💡 Dica de UX: O Cenário
+Além do aparelho, pense no **ambiente**. O usuário está em um lugar barulhento? No sol forte (precisa de brilho/contraste)? Com pressa? Isso tudo influencia na sua Arquitetura da Informação.
