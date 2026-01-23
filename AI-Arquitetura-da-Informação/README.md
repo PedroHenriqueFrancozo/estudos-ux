@@ -12,6 +12,7 @@ A função principal da AI é **tornar o complexo compreensível**. Ela serve pa
 # 🎯 1. O Fator Humano (Quem?)
 O design deve se adaptar às limitações e habilidades do usuário:
 
-- Crianças: Interfaces com áreas de toque maiores, muitas cores e pouco texto.
-- Jovens/Adultos: Foco em agilidade, estética moderna e atalhos.
-- Idosos: Necessidade de alto contraste, fontes maiores e caminhos muito claros (sem ambiguidades).
+- **Crianças:** Interfaces com áreas de toque maiores, muitas cores e pouco texto.
+- **Jovens/Adultos:** Foco em agilidade, estética moderna e atalhos.
+- **Idosos:** Necessidade de alto contraste, fontes maiores e caminhos muito claros (sem ambiguidades).
+
