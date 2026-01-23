@@ -63,3 +63,8 @@
 - **23/01/2026**: Definição de Arquitetura da Informação (AI).
   - Entendimento da AI como a base estrutural de um projeto.
   - Foco em reduzira carga cognitiva e melhorar a encontrabilidade.
+
+- **23/01/2026**: Estudo de Contexto e Dispositivos.
+  - Análise de público-alvo (geracional e necessidades específicas).
+  - Diferenciação de interfaces para Mobile, Desktop, Tablets e Smart TVs.
+  - Impacto do dispositivo na ergonomia e na tomada de decisão.
