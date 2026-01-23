@@ -68,3 +68,8 @@
   - Análise de público-alvo (geracional e necessidades específicas).
   - Diferenciação de interfaces para Mobile, Desktop, Tablets e Smart TVs.
   - Impacto do dispositivo na ergonomia e na tomada de decisão.
+
+- **23/01/2026**: Fundamentos da Arquitetura da Informação.
+  - O Ecossistema da AI: Equilíbrio entre Contexto, Conteúdo e Usuário.
+  - Introdução aos 8 princípios de Dan Brown para estruturação de dados.
+  - Diferença entre componentes (ferramentas) e fundamentos (estratégia).
