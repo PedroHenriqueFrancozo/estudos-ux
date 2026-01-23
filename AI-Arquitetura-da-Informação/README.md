@@ -1,0 +1,2 @@
+# 🏛️ Arquitetura da Informação: Para que serve?
+A função principal da AI é **tornar o complexo compreensível**. Ela serve para organizar o conteúdo de modo que o usuário encontre o que precisa com o menor esforço possível.
