@@ -73,3 +73,8 @@
   - O Ecossistema da AI: Equilíbrio entre Contexto, Conteúdo e Usuário.
   - Introdução aos 8 princípios de Dan Brown para estruturação de dados.
   - Diferença entre componentes (ferramentas) e fundamentos (estratégia).
+
+- **25/01/2026**: Estudo de Anatomia dos Tipos.
+  - Identificação de linhas de referência (Baseline, Altura-x, Ascendentes e Descendentes).
+  - Componentes da letra: Haste, Serifa, Olho e Barriga.
+  - Relação entre anatomia tipográfica e legibilidade em interfaces digitais.
