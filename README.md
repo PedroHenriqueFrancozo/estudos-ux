@@ -12,3 +12,7 @@ Este repositório contém meus estudos, anotações e projetos práticos realiza
 - [ ] MoodBoard
 - [ ] Sistema de Organização
 - [ ] Sistema de Rotulação
+- [ ] Sistema de Busca
+- [ ] Sistema de Navegação
+- [ ] Fundamentos da Arquitetura da Informação
+- [ ] AI-UX-UI
