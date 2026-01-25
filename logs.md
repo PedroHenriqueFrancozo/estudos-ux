@@ -79,3 +79,7 @@
   - Componentes da letra: Haste, Serifa, Olho e Barriga.
   - Relação entre anatomia tipográfica e legibilidade em interfaces digitais.
 
+- **25/01/2026**: Estudo de Padrões de Interface (UI Patterns).
+  - A importância da familiaridade e consistência no design.
+  - Exemplos de padrões de navegação, entrada de dados e feedback.
+  - Introdução à Lei de Jakob e consulta a Design Systems.
