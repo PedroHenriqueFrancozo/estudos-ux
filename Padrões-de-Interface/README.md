@@ -13,6 +13,7 @@ Os padrões de interface servem para criar **familiaridade**. Quando o usuário 
     - **Feedback:** Barras de progresso, Modais (pop-ups), Mensagens de erro em vermelho.
 
 3. Onde encontrar esses padrões? (Bibliotecas)
+
 Para não desenhar tudo do zero, bibliotecas famosas:
 
 - **Material Design:** O sistema de design do Google.
