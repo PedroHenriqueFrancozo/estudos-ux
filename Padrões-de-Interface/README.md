@@ -15,9 +15,9 @@ Os padrões de interface servem para criar **familiaridade**. Quando o usuário 
 3. Onde encontrar esses padrões? (Bibliotecas)
 Para não desenhar tudo do zero, bibliotecas famosas:
 
-**Material Design:** O sistema de design do Google.
-**Human Interface Guidelines:** O sistema da Apple (iOS).
-**UI Patterns:** Sites como https://www.google.com/search?q=uipatterns.com que catalogam soluções para problemas específicos.
+- **Material Design:** O sistema de design do Google.
+- **Human Interface Guidelines:** O sistema da Apple (iOS).
+- **UI Patterns:** Sites como https://www.google.com/search?q=uipatterns.com que catalogam soluções para problemas específicos.
 
 # ⚠️ A Regra: Lei de Jakob
 "Os usuários passam a maior parte do tempo em outros sites. Isso significa que eles preferem que o seu site funcione da mesma maneira que todos os outros sites que eles já conhecem."
