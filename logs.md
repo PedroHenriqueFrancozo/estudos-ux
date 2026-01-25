@@ -78,3 +78,4 @@
   - Identificação de linhas de referência (Baseline, Altura-x, Ascendentes e Descendentes).
   - Componentes da letra: Haste, Serifa, Olho e Barriga.
   - Relação entre anatomia tipográfica e legibilidade em interfaces digitais.
+
