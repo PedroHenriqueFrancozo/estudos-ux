@@ -83,3 +83,8 @@
   - A importância da familiaridade e consistência no design.
   - Exemplos de padrões de navegação, entrada de dados e feedback.
   - Introdução à Lei de Jakob e consulta a Design Systems.
+
+- **25/01/2026**: Estudo de Ferramentas de UX.
+  - Ferramentas de Interface e Colaboração (Figma, Sketch, XD).
+  - Ferramentas de Whiteboarding para estratégia (Miro/FigJam).
+  - Noções de ferramentas de análise e testes de usabilidade (Maze/Hotjar).
