@@ -15,3 +15,6 @@ O espaço em branco é tão importante quanto a letra:
 Define como o texto se posiciona no "box":
 
 - **À Esquerda:** É o padrão mais legível para o ocidente, pois nossa leitura começa na esquerda. Cria uma "âncora" visual fácil de seguir.
+- **Centralizado:** Bom para títulos curtos ou frases de destaque. Evite usar em textos longos.
+- **À Direita:** Usado em casos específicos, como legendas ou menus laterais.
+- **Justificado:** **Evite em UX/Web.** Ele cria "rios" (espaços brancos estranhos) no meio do texto e dificulta a leitura para pessoas com dislexia.
