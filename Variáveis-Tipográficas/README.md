@@ -4,3 +4,9 @@
 
 É a unidade de organização do texto. No design digital, evitamos parágrafos muito longos para não cansar o usuário.
 - **Dica de Ouro:** O tamanho ideal de uma linha para leitura confortável é entre **45 e 75** caracteres. Mais que isso, o olho se perde ao voltar para a próxima linha.
+
+### 2. Espaçamentos (Leading e Tracking)
+O espaço em branco é tão importante quanto a letra:
+
+- **Entrelinha (Leading):** O espaço vertical entre as linhas. Se for muito curto, as letras se atropelam; se for muito grande, o texto parece "solto". O padrão geralmente é 120% a 150% do tamanho da fonte.
+- **Entreletras (Tracking/Kerning):** O espaço horizontal. Textos em letras maiúsculas (ALL CAPS) costumam precisar de um pouco mais de espaçamento para facilitar a leitura.
