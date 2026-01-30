@@ -10,3 +10,8 @@ O espaço em branco é tão importante quanto a letra:
 
 - **Entrelinha (Leading):** O espaço vertical entre as linhas. Se for muito curto, as letras se atropelam; se for muito grande, o texto parece "solto". O padrão geralmente é 120% a 150% do tamanho da fonte.
 - **Entreletras (Tracking/Kerning):** O espaço horizontal. Textos em letras maiúsculas (ALL CAPS) costumam precisar de um pouco mais de espaçamento para facilitar a leitura.
+
+### 3. Alinhamento
+Define como o texto se posiciona no "box":
+
+- **À Esquerda:** É o padrão mais legível para o ocidente, pois nossa leitura começa na esquerda. Cria uma "âncora" visual fácil de seguir.
