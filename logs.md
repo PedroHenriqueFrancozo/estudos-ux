@@ -88,3 +88,9 @@
   - Ferramentas de Interface e Colaboração (Figma, Sketch, XD).
   - Ferramentas de Whiteboarding para estratégia (Miro/FigJam).
   - Noções de ferramentas de análise e testes de usabilidade (Maze/Hotjar).
+
+- **30/01/2026**: Estudo de Variáveis de Configuração de Texto.
+  - Parágrafos: Limite de caracteres por linha para legibilidade.
+  - Espaçamentos: Importância da entrelinha (Leading) e entreletras (Tracking).
+  - Alinhamento: Por que priorizar o alinhamento à esquerda e evitar o justificado.
+  - DropCap: Uso da letra capitular como elemento estético e de hierarquia.
