@@ -94,3 +94,8 @@
   - Espaçamentos: Importância da entrelinha (Leading) e entreletras (Tracking).
   - Alinhamento: Por que priorizar o alinhamento à esquerda e evitar o justificado.
   - DropCap: Uso da letra capitular como elemento estético e de hierarquia.
+
+- **31/01/2026**: Estudo da Lei de Hick.
+  - Relação entre o número de escolhas e o tempo de reação do usuário.
+  - Aplicação prática: redução de carga cognitiva e simplificação de menus/formulários.
+  - Conceito de "Paralisia de Decisão".
