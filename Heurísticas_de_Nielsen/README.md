@@ -14,3 +14,8 @@ O sistema deve falar a língua do usuário, com palavras e conceitos familiares,
 O usuário costuma escolher funções por engano. Ele precisa de uma "saída de emergência" clara para desfazer a ação.
 
 **Exemplo:** O botão "Desfazer" (Ctrl+Z) ou o botão "Cancelar" em um formulário.
+
+### 4. Consistência e Padrões
+O usuário não deve ter que adivinhar se palavras ou ações diferentes significam a mesma coisa. Siga as convenções.
+
+**Exemplo:** Se o botão de "Confirmar" é verde em uma página, ele não pode ser azul na outra.
