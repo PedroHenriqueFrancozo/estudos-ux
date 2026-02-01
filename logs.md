@@ -99,3 +99,8 @@
   - Relação entre o número de escolhas e o tempo de reação do usuário.
   - Aplicação prática: redução de carga cognitiva e simplificação de menus/formulários.
   - Conceito de "Paralisia de Decisão".
+
+- **31/01/2026**: Aprofundamento Matemático da Lei de Hick.
+  - Estudo da fórmula RT = a + b.log2(n+1).
+  - Entendimento de que o tempo de decisão cresce logaritmicamente com o número de opções.
+  - Aplicação de cálculos para prever o tempo de resposta do usuário em menus e listas.
