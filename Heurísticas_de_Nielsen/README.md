@@ -49,3 +49,8 @@ Os diálogos não devem conter informações irrelevantes ou raramente necessár
 As mensagens de erro devem ser escritas em linguagem clara (sem códigos), indicar precisamente o problema e sugerir uma solução.
 
 - **Exemplo:** Em vez de "Erro 404", exibir "Página não encontrada. Tente voltar para a Home ou buscar novamente".
+
+### 10. Ajuda e Documentação
+Embora o ideal seja que o sistema possa ser usado sem ajuda, pode ser necessário fornecer documentação para auxiliar o usuário a entender como realizar suas tarefas.
+
+- **Exemplo:** Uma seção de "FAQ" (Perguntas Frequentes) ou um campo de busca dentro da Central de Ajuda.
