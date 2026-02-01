@@ -14,5 +14,24 @@ A Lei de Hick afirma que: "**O tempo que uma pessoa leva para tomar uma decisão
 
 ---
 
+# 🧮 A Matemática da Decisão: Fórmula de Hick
+A fórmula quantifica o tempo de reação (RT) baseado na quantidade de estímulos.
+    `RT = a + b . log_2(n + 1)`
+
+- a **(ou o tempo inicial):** É o tempo total que não envolve a tomada de decisão (ex: o tempo que o olho leva para focar na tela).
+- b: É uma constante baseada no processamento cognitivo (o tempo que o cérebro leva para processar cada "bit" de informação).
+- n: É o número de alternativas disponíveis.
+
+### **exemplo:**
+Digamos que você está em um site e precisa chegar em algum lugar. Há uma lista de opções e você leva 2 segundos para ler, entender e decidir qual opção de navegação escolher, dentre as 5 opções possíveis
+
+O tempo de resposta, de acordo com a Lei de Hick, é o seguinte:
+    `RT = (2 segundos) + (0,155 segundo) (log2 (5)) = 2,36 segundos`
+
+**Resumo da fórmula**
+**O tempo que leva para tomar uma decisão, aumenta à medida que o número de alternativas aumentam.**
+
+---
+
 # ⚠️ A exceção (Cuidado!)
 Não simplifique tanto a ponto de esconder o que é necessário. O objetivo não é remover funções essenciais, mas sim **organizar e filtrar** para que o usuário não se sinta sobrecarregado.
