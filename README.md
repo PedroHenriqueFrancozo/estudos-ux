@@ -19,10 +19,10 @@ Este repositório contém meus estudos, anotações e projetos práticos realiza
 - [✅] Arquitetura da Informação
 - [✅] Anatomia dos tipos
 - [✅] Ferramentas UX/UI
-- [ ] Padrões de Interface
-- [ ] Fundamentos de UX
-- [ ] Variáveis Tipográficas
-- [ ] Arquitetura da Informação
-- [ ] Heurísticas de Nielsen
-- [ ] Lei de Hick
-- [ ] Padrões de Interface
+- [✅] Padrões de Interface
+- [✅] Fundamentos de UX
+- [✅] Variáveis Tipográficas
+- [✅] Arquitetura da Informação
+- [✅] Heurísticas de Nielsen
+- [✅] Lei de Hick
+- [✅] Padrões de Interface
