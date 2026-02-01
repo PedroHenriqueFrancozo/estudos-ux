@@ -44,3 +44,8 @@ A interface deve atender tanto usuários novatos quanto experientes. Atalhos (qu
 Os diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação compete com as unidades relevantes.
 
 - **Exemplo:** Interfaces limpas como a do Google Search (foco total na busca).
+
+### 9. Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros
+As mensagens de erro devem ser escritas em linguagem clara (sem códigos), indicar precisamente o problema e sugerir uma solução.
+
+- **Exemplo:** Em vez de "Erro 404", exibir "Página não encontrada. Tente voltar para a Home ou buscar novamente".
