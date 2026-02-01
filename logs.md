@@ -109,3 +109,9 @@
   - 1 a 5: Visibilidade, Mundo Real, Liberdade, Consistência e Prevenção de Erros.
   - 6 a 10: Reconhecimento, Flexibilidade, Estética, Recuperação de Erros e Ajuda/Documentação.
   - Aplicação prática: Identificação de problemas de usabilidade sem testes com usuários.
+
+- **31/01/2026**: Disciplinas do UX.
+  - IxD: O foco no comportamento e resposta do sistema.
+  - UI e Design Visual: A interface física e a estética.
+  - Usabilidade: A métrica de facilidade e eficiência.
+  - AI: A organização estrutural do conteúdo.
