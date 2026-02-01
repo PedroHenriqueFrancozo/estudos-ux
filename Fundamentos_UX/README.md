@@ -20,3 +20,8 @@ Foca na relação entre o usuário e o produto. O objetivo é que as interaçõe
 É a medida de quão fácil e eficiente é usar uma interface. Um site pode ser lindo, mas se for difícil de usar, ele tem baixa usabilidade.
 
 - **Foco:** A eficácia. O usuário consegue completar a tarefa sem erro e sem frustração?
+
+### 5. Arquitetura da Informação (AI)
+Como já vimos, é a organização e estruturação do conteúdo. Garante que o usuário encontre o que precisa de forma intuitiva.
+
+- **Foco:** A estrutura. O esqueleto lógico por trás das telas.
