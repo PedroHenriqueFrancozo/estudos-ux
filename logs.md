@@ -104,3 +104,8 @@
   - Estudo da fórmula RT = a + b.log2(n+1).
   - Entendimento de que o tempo de decisão cresce logaritmicamente com o número de opções.
   - Aplicação de cálculos para prever o tempo de resposta do usuário em menus e listas.
+
+- **31/01/2026**: Estudo Completo das 10 Heurísticas de Nielsen.
+  - 1 a 5: Visibilidade, Mundo Real, Liberdade, Consistência e Prevenção de Erros.
+  - 6 a 10: Reconhecimento, Flexibilidade, Estética, Recuperação de Erros e Ajuda/Documentação.
+  - Aplicação prática: Identificação de problemas de usabilidade sem testes com usuários.
