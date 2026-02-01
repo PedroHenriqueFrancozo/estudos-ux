@@ -10,3 +10,7 @@ O sistema deve falar a língua do usuário, com palavras e conceitos familiares,
 
 **Exemplo:** O ícone de uma "lixeira" para deletar arquivos ou usar "Carrinho de Compras" em um e-commerce.
 
+### 3. Controle e Liberdade do Usuário
+O usuário costuma escolher funções por engano. Ele precisa de uma "saída de emergência" clara para desfazer a ação.
+
+**Exemplo:** O botão "Desfazer" (Ctrl+Z) ou o botão "Cancelar" em um formulário.
