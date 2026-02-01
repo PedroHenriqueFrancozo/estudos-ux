@@ -28,8 +28,9 @@ Digamos que você está em um site e precisa chegar em algum lugar. Há uma list
 O tempo de resposta, de acordo com a Lei de Hick, é o seguinte:
     `RT = (2 segundos) + (0,155 segundo) (log2 (5)) = 2,36 segundos`
 
-**Resumo da fórmula**
-**O tempo que leva para tomar uma decisão, aumenta à medida que o número de alternativas aumentam.**
+**Resumo da fórmula:**
+
+Se o usuário tem **5 opções**, o logaritmo aumenta o tempo de resposta para **2,36** segundos. Se dobrássemos para 10 opções, o tempo não dobraria (graças à escala logarítmica), mas aumentaria o suficiente para gerar frustração e fadiga.
 
 ---
 
