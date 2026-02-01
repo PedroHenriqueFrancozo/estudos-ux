@@ -34,3 +34,8 @@ O usuário não deve ter que memorizar informações de uma etapa para outra. O 
 A interface deve atender tanto usuários novatos quanto experientes. Atalhos (que ficam ocultos para iniciantes) aceleram o uso para quem já conhece o sistema.
 
 - **Exemplo:** Comandos de teclado (Ctrl+C / Ctrl+V) ou a opção de "Pular introdução".
+
+### 7. Flexibilidade e Eficiência de Uso
+A interface deve atender tanto usuários novatos quanto experientes. Atalhos (que ficam ocultos para iniciantes) aceleram o uso para quem já conhece o sistema.
+
+- **Exemplo:** Comandos de teclado (Ctrl+C / Ctrl+V) ou a opção de "Pular introdução".
