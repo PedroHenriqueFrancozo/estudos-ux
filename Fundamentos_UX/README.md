@@ -15,3 +15,8 @@ Foca na relação entre o usuário e o produto. O objetivo é que as interaçõe
 É a estética do produto. Usa cores, tipografia e imagens para criar uma identidade e guiar a atenção do usuário (Hierarquia Visual).
 
 - **Foco:** A aparência. Transmite a personalidade da marca e gera desejo e confiança.
+
+### 4. Usabilidade
+É a medida de quão fácil e eficiente é usar uma interface. Um site pode ser lindo, mas se for difícil de usar, ele tem baixa usabilidade.
+
+- **Foco:** A eficácia. O usuário consegue completar a tarefa sem erro e sem frustração?
