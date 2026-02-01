@@ -24,3 +24,9 @@ O usuário não deve ter que adivinhar se palavras ou ações diferentes signifi
 Melhor do que uma boa mensagem de erro é um design que evita que o erro aconteça.
 
 - **Exemplo:** O Google perguntando "Você esqueceu o anexo?" quando você escreve "segue anexo" no corpo do e-mail mas não anexa nada.
+
+### 6. Reconhecer em vez de lembrar
+O usuário não deve ter que memorizar informações de uma etapa para outra. O sistema deve deixar as opções e objetos visíveis.
+
+- **Exemplo:** Mostrar os itens que o usuário acabou de ver em um e-commerce ("Vistos recentemente").
+
