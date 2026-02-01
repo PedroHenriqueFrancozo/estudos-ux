@@ -19,3 +19,8 @@ O usuário costuma escolher funções por engano. Ele precisa de uma "saída de 
 O usuário não deve ter que adivinhar se palavras ou ações diferentes significam a mesma coisa. Siga as convenções.
 
 **Exemplo:** Se o botão de "Confirmar" é verde em uma página, ele não pode ser azul na outra.
+
+### 5. Prevenção de Erros
+Melhor do que uma boa mensagem de erro é um design que evita que o erro aconteça.
+
+**Exemplo:** O Google perguntando "Você esqueceu o anexo?" quando você escreve "segue anexo" no corpo do e-mail mas não anexa nada.
