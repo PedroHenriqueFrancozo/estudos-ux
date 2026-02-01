@@ -39,3 +39,8 @@ A interface deve atender tanto usuários novatos quanto experientes. Atalhos (qu
 A interface deve atender tanto usuários novatos quanto experientes. Atalhos (que ficam ocultos para iniciantes) aceleram o uso para quem já conhece o sistema.
 
 - **Exemplo:** Comandos de teclado (Ctrl+C / Ctrl+V) ou a opção de "Pular introdução".
+
+### 8. Estética e Design Minimalista
+Os diálogos não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação compete com as unidades relevantes.
+
+- **Exemplo:** Interfaces limpas como a do Google Search (foco total na busca).
