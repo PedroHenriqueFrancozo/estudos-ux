@@ -16,3 +16,6 @@
 O espaçamento define relações. Elementos que estão **próximos** são percebidos como parte de um mesmo grupo. Elementos afastados são percebidos como diferentes.
 
     Se o título está muito longe do parágrafo, o cérebro do usuário demora mais para entender que eles estão conectados.
+
+### 4. Escalas de Espaçamento (Grids)
+Para manter a consistência, designers não usam números aleatórios. Geralmente usa-se a **Regra do 8pt** (8, 16, 24, 32, 40, 48... pixels). Isso garante que o layout pareça harmônico em qualquer tela.
