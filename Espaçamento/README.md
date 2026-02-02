@@ -19,3 +19,6 @@ O espaçamento define relações. Elementos que estão **próximos** são perceb
 
 ### 4. Escalas de Espaçamento (Grids)
 Para manter a consistência, designers não usam números aleatórios. Geralmente usa-se a **Regra do 8pt** (8, 16, 24, 32, 40, 48... pixels). Isso garante que o layout pareça harmônico em qualquer tela.
+
+# 💡 Por que o espaçamento é essencial?
+1. **Aumenta a Legibilidade:** Texto "apertado" cansa a vista e faz o usuário desistir da leitura.
