@@ -22,3 +22,6 @@ Para manter a consistência, designers não usam números aleatórios. Geralment
 
 # 💡 Por que o espaçamento é essencial?
 1. **Aumenta a Legibilidade:** Texto "apertado" cansa a vista e faz o usuário desistir da leitura.
+2. **Gera Foco:** Quanto mais espaço vazio ao redor de um botão (CTA), mais ele se destaca.
+3. **Transmite Sofisticação:** Marcas de luxo e interfaces modernas (como a da Apple) usam muito espaço em branco para passar sensação de clareza e elegância.
+
