@@ -11,3 +11,8 @@
     - **Regra de bolso:** Use entre 1.4 a 1.6 vezes o tamanho da fonte para textos longos.
 - **Tracking (Espaçamento entre letras):** Ajuste global do espaço entre as letras de uma palavra ou bloco.
 - **Kerning:** Ajuste individual entre dois caracteres específicos (ex: o espaço entre um 'A' e um 'V').
+
+### 3. Lei da Proximidade (Gestalt)
+O espaçamento define relações. Elementos que estão **próximos** são percebidos como parte de um mesmo grupo. Elementos afastados são percebidos como diferentes.
+
+    Se o título está muito longe do parágrafo, o cérebro do usuário demora mais para entender que eles estão conectados.
