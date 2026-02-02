@@ -115,3 +115,9 @@
   - UI e Design Visual: A interface física e a estética.
   - Usabilidade: A métrica de facilidade e eficiência.
   - AI: A organização estrutural do conteúdo.
+
+- **01/02/2026**: Estudo de Espaçamento e Espaço Negativo.
+  - Diferença entre Macro e Micro White Space.
+  - Aplicação da Lei da Proximidade para agrupar informações.
+  - Implementação de sistemas de espaçamento (Ex: Grid de 8pt).
+  - Impacto do espaçamento na legibilidade e no foco (CTA).
