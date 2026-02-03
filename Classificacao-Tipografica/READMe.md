@@ -6,3 +6,5 @@ As fontes são classificadas principalmente pela presença ou ausência de serif
 
 - Serifadas (Serif): Possuem pequenos traços nas extremidades. Transmitem tradição, autoridade e seriedade. (Ex: Times New Roman, Garamond).
 - Sem Serifas (Sans Serif): Têm traços retos e limpos. Transmitem modernidade, tecnologia e minimalismo. (Ex: Helvetica, Roboto).
+- Cursivas (Script): Imitam a escrita à mão. Transmitem elegância ou pessoalidade.
+- Decorativas (Display): Estilos únicos para títulos, com muita personalidade, mas baixa legibilidade em textos longos.
