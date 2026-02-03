@@ -121,3 +121,8 @@
   - Aplicação da Lei da Proximidade para agrupar informações.
   - Implementação de sistemas de espaçamento (Ex: Grid de 8pt).
   - Impacto do espaçamento na legibilidade e no foco (CTA).
+
+- **02/02/2026**: Classificação Tipográfica.
+  - Diferenciação visual entre Serif, Sans Serif e Display.
+  - Foco em Legibilidade: contraste, abertura e altura-x.
+  - O conceito de "Tipografia Modesta": a fonte invisível que prioriza o conteúdo.
