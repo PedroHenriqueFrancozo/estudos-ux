@@ -13,3 +13,5 @@ As fontes são classificadas principalmente pela presença ou ausência de serif
 Para garantir uma leitura fluida, o design foca na distinguibilidade:
 
 - **Contraste:** A diferença entre traços grossos e finos. Contraste moderado ajuda o olho a seguir a linha sem cansar.
+- **Abertura (Aperture):** O espaço aberto em letras como 'c', 'e' e 's'. Aberturas maiores evitam que as letras pareçam borrões em tamanhos pequenos.
+- **Altura-x:** Fontes com altura-x maior facilitam a leitura em telas digitais.
