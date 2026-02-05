@@ -16,3 +16,5 @@ O Tint clareia a cor (ex: Vermelho + Branco = Rosa). ele não aumenta o brilho n
 O tom é o segredo das paletas sofisticadas.
 
 - **Por que usar:** Adicionar cinza remove a "vibração" agressiva da cor pura. Em interfaces (UI), usar tons para criar elementos que não cansam os olhos do usuário (como fundos ou áreas secundárias).
+
+![Imagem sobre Tom](/assets/Tom.png)
