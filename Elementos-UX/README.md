@@ -15,3 +15,8 @@ O grande trunfo desse diagrama é entender que cada nível depende do que foi de
 
 - **Foco:** Design de Interação e Arquitetura da Informação.
 - **Ponto chave:** Criar o mapa do site ou o fluxo do usuário. É como o sistema responde ao comportamento humano.
+
+### 4. Esqueleto (O "Onde")
+
+- **Foco:** Design de Interface, Navegação e Informação.
+- **Ponto chave:** É a fase dos Wireframes. Aqui definimos a hierarquia visual sem nos preocuparmos com cores ainda.
