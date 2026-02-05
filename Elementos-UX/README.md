@@ -10,3 +10,8 @@ O grande trunfo desse diagrama é entender que cada nível depende do que foi de
 
 - **Foco:** Requisitos funcionais (o que o sistema faz) e Requisitos de conteúdo (o que o sistema diz).
 - **Ponto chave:** É o momento de decidir o que fica dentro e o que fica fora do projeto para não estourar prazos.
+
+### 3. Estrutura (O "Como")
+
+- **Foco:** Design de Interação e Arquitetura da Informação.
+- **Ponto chave:** Criar o mapa do site ou o fluxo do usuário. É como o sistema responde ao comportamento humano.
