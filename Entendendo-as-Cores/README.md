@@ -10,3 +10,4 @@ O Hue é a "raiz" da cor (Vermelho, Azul, Amarelo).
 ### 2. Tint (Tonalidade ou "Matiz" no seu texto) - Cor + Branco
 O Tint clareia a cor (ex: Vermelho + Branco = Rosa). ele não aumenta o brilho no sentido de intensidade, ele apenas torna a cor mais pálida ou pastel.
 
+![Imagem sobre Matiz](/assets/Matiz.png)
