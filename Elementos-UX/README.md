@@ -6,3 +6,7 @@ O grande trunfo desse diagrama é entender que cada nível depende do que foi de
 - **Foco:** Objetivos de negócio e Necessidades dos usuários.
 - **Ponto chave:** É aqui que definimos as Personas e os indicadores de sucesso (KPIs).
 
+### 2. Escopo (O "O quê")
+
+- **Foco:** Requisitos funcionais (o que o sistema faz) e Requisitos de conteúdo (o que o sistema diz).
+- **Ponto chave:** É o momento de decidir o que fica dentro e o que fica fora do projeto para não estourar prazos.
