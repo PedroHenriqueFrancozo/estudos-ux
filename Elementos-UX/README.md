@@ -20,3 +20,8 @@ O grande trunfo desse diagrama é entender que cada nível depende do que foi de
 
 - **Foco:** Design de Interface, Navegação e Informação.
 - **Ponto chave:** É a fase dos Wireframes. Aqui definimos a hierarquia visual sem nos preocuparmos com cores ainda.
+
+### 5. Superfície (O "Visual")
+
+- **Foco:** Design Visual (Sensorial).
+- **Ponto chave:** É o acabamento. Tratamos de contraste, cores, tipografia e iconografia para criar uma experiência estética e funcional.
