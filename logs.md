@@ -126,3 +126,11 @@
   - Diferenciação visual entre Serif, Sans Serif e Display.
   - Foco em Legibilidade: contraste, abertura e altura-x.
   - O conceito de "Tipografia Modesta": a fonte invisível que prioriza o conteúdo.
+
+- **04/02/2026**: Estudo dos 5 Planos de Jesse James Garrett.
+  - Estratégia: Alinhamento entre negócio e usuário.
+  - Escopo: Definição de funcionalidades e conteúdo.
+  - Estrutura: Arquitetura da informação e fluxos.
+  - Esqueleto: Wireframes e posicionamento de elementos.
+  - Superfície: Design visual e UI final.
+  - Conclusão: O impacto do processo na eficiência e no cumprimento de prazos.
