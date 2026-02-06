@@ -19,3 +19,9 @@ O tom é o segredo das paletas sofisticadas.
 
 ![Imagem sobre Tom](/assets/Tom.png)
 
+### 4. Shade (Sombra) - Cor + Preto
+
+- **Definição:** É qualquer cor pura com Preto adicionado. Serve para criar profundidade e contraste.
+
+![Imagem sobre Shade](/assets/Shade.png)
+
