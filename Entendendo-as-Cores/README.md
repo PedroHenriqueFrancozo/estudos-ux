@@ -53,3 +53,10 @@ Baseadas em azuis, verdes e violetas.
 **CMYK** - Cyan (Ciano), Magenta, Amarelo, Preto: usa o que é chamado de mistura sibtrativa de luz para derivar cores diferentes.
 **RGB** - Vermelho, Verde e azul: usam o que é chamado de mistura aditiva de luz para derivar cores diferentes.
 **HSB (V)** - Matiz, Saturação e Brilho (às vezes modelado como Valor ou Luminosidade) usa uma mistura desses atributos para derivar cores diferentes
+
+### CMYK
+
+**Cyan (Ciano), Magenta, Amarelo, Preto:** quando essas 4 cores são misturadas, a sobreposição resulta em **preto**;
+**Subtrativo** - Porque está removendo o branco que está lá.
+
+![Imagem sobre CMYK](/assets/CMYK.png)
