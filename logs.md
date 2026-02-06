@@ -134,3 +134,8 @@
   - Esqueleto: Wireframes e posicionamento de elementos.
   - Superfície: Design visual e UI final.
   - Conclusão: O impacto do processo na eficiência e no cumprimento de prazos.
+
+- **05/02/2026**: Estudo de Temperatura das Cores.
+  - Cores Quentes: Ativação, movimento e proximidade visual.
+  - Cores Frias: Calma, estabilidade e profundidade.
+  - Aplicação prática: Uso de temperaturas opostas para criar hierarquia e pontos de conversão (CTAs).
