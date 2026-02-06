@@ -52,11 +52,11 @@ Baseadas em azuis, verdes e violetas.
 
 **CMYK** - Cyan (Ciano), Magenta, Amarelo, Preto: usa o que é chamado de mistura sibtrativa de luz para derivar cores diferentes.
 **RGB** - Vermelho, Verde e azul: usam o que é chamado de mistura aditiva de luz para derivar cores diferentes.
-**HSB (V)** - Matiz, Saturação e Brilho (às vezes modelado como Valor ou Luminosidade) usa uma mistura desses atributos para derivar cores diferentes
+**HSB (V)** - Matiz, Saturação e Brilho (às vezes modelado como Valor ou Luminosidade) usa uma mistura desses atributos para derivar cores diferentes.
 
 ### CMYK
 
-**Cyan (Ciano), Magenta, Amarelo, Preto:** quando essas 4 cores são misturadas, a sobreposição resulta em **preto**;
+**Cyan (Ciano), Magenta, Amarelo, Preto:** quando essas 4 cores são misturadas, a sobreposição resulta em **preto**.
 **Subtrativo** - Porque está removendo o branco que está lá.
 
 ![Imagem sobre CMYK](/assets/CMYK.png)
@@ -64,6 +64,15 @@ Baseadas em azuis, verdes e violetas.
 ### RGB
 
 Usado para design de tela digital;
-**Vermelho, Verde e azul:** como 3 luzes vermelhas, azuis e verdes brilhantes projetando-se, transformando em brilho total, você obtém luz **branca pura**;
+**Vermelho, Verde e azul:** como 3 luzes vermelhas, azuis e verdes brilhantes projetando-se, transformando em brilho total, você obtém luz **branca pura**.
 
 ![Imagem sobre RGB](/assets/RGB.png)
+
+### HSB
+
+Usado por UI e designers de tela visual;
+**Matiz** - uma escala radial;
+**Saturação** - quão maçante ou rica a cor;
+**Brilho** - se a cor está mais próxima do branco ou mais próxima do preto na escala.
+
+![Imagem sobre HSB](/assets/HSB.png)
