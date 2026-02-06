@@ -60,3 +60,10 @@ Baseadas em azuis, verdes e violetas.
 **Subtrativo** - Porque está removendo o branco que está lá.
 
 ![Imagem sobre CMYK](/assets/CMYK.png)
+
+### RGB
+
+Usado para design de tela digital;
+**Vermelho, Verde e azul:** como 3 luzes vermelhas, azuis e verdes brilhantes projetando-se, transformando em brilho total, você obtém luz **branca pura**;
+
+![Imagem sobre RGB](/assets/RGB.png)
