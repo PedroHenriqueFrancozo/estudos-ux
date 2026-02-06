@@ -139,3 +139,9 @@
   - Cores Quentes: Ativação, movimento e proximidade visual.
   - Cores Frias: Calma, estabilidade e profundidade.
   - Aplicação prática: Uso de temperaturas opostas para criar hierarquia e pontos de conversão (CTAs).
+
+- **05/02/2026**: Estudo de Modelos de Cores.
+  - CMYK: Modelo subtrativo para impressão (foco em pigmento).
+  - RGB: Modelo aditivo para telas (foco em luz).
+  - HSB/HSV: O modelo mais intuitivo para manipulação de interface, separando cor, pureza e luminosidade.
+  - Entendimento da transição entre luz projetada e cor impressa.
