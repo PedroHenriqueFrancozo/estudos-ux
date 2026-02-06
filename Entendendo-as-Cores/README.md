@@ -25,3 +25,18 @@ O tom é o segredo das paletas sofisticadas.
 
 ![Imagem sobre Shade](/assets/Shade.png)
 
+### 🌡️ Temperatura das Cores
+A temperatura é a percepção subjetiva de calor ou frio que uma cor transmite. No círculo cromático, dividimos essas sensações em dois grandes grupos:
+
+1. Cores Quentes (Warm Colors)
+são baseadas em vermelhos, laranjas e amarelos.
+
+- **Comportamento Visual:** Elas tendem a **"avançar"** no layout. Parecem estar mais próximas do usuário.
+- **Uso em UI:** Excelentes para botões de ação (CTAs), alertas de erro ou qualquer elemento que precise de atenção imediata e energia.
+- **Sentimentos:** Paixão, otimismo, perigo ou urgência.
+
+
+
+![Imagem sobre Temperatura](/assets/Temperatura.png)
+
+--- 
