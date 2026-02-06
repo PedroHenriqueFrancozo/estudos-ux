@@ -48,3 +48,8 @@ Baseadas em azuis, verdes e violetas.
 
 # 🎨 Modelos de Cores e Espaço de Cores
 
+### Modelos de Cores
+
+**CMYK** - Cyan (Ciano), Magenta, Amarelo, Preto: usa o que é chamado de mistura sibtrativa de luz para derivar cores diferentes.
+**RGB** - Vermelho, Verde e azul: usam o que é chamado de mistura aditiva de luz para derivar cores diferentes.
+**HSB (V)** - Matiz, Saturação e Brilho (às vezes modelado como Valor ou Luminosidade) usa uma mistura desses atributos para derivar cores diferentes
