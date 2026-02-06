@@ -35,7 +35,12 @@ são baseadas em vermelhos, laranjas e amarelos.
 - **Uso em UI:** Excelentes para botões de ação (CTAs), alertas de erro ou qualquer elemento que precise de atenção imediata e energia.
 - **Sentimentos:** Paixão, otimismo, perigo ou urgência.
 
+2. Cores Frias (Cool Colors)
+Baseadas em azuis, verdes e violetas.
 
+- **Comportamento Visual:** Elas tendem a **"recuar"** no layout. Parecem estar mais distantes, criando profundidade.
+- **Uso em UI:** Ótimas para planos de fundo, interfaces de produtividade, apps de saúde e bancos, onde a calma e a clareza são prioridades.
+- **Sentimentos:** Confiança, profissionalismo, paz e segurança.
 
 ![Imagem sobre Temperatura](/assets/Temperatura.png)
 
