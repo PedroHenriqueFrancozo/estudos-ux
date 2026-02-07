@@ -35,3 +35,13 @@ Tipos desenhados a partir de formas geometricas simples, como círculos e retân
 - Avenir
 - Harmonia Sans
 - Futura
+
+# Com Serifas
+
+### Humanistas (Antigas)
+As fontes humanistas foram os primeiros tipos criados na Itália e se assemelhavam a caligrafia clássia. Seus detalhes dão alusão ao movimento da maão e da pena no papel, o que justifica o seu nome e o seu eixo oblíquio.
+
+**Exemplos:**
+- Kennerly
+- Lynton
+- Centaur
