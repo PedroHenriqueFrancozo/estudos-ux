@@ -27,3 +27,11 @@ Baseado nos tipos grotescos, esta categoria neo-grotesques apresentam uma maior 
 - Univers
 - Bell Gothic
 - Helvetica
+
+### Geométricas (Sem Serifas)
+Tipos desenhados a partir de formas geometricas simples, como círculos e retângulos, que são repetidas para desenvolvimento do projeto.
+
+**Exemplos:**
+- Avenir
+- Harmonia Sans
+- Futura
