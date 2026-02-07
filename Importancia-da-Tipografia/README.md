@@ -15,7 +15,7 @@ Alguns desses sistemas possuem dezenas de subcategorias.
 ### Humanistas (Sem Serifas)
 Inspirados nos tipos romanos, possuem um aspecto orgânico e boa legibilidade para leitura de textos extensos. As humanistas possuem  características e proporções de tipos serifadas, com influência nas tipografias caligráficas. Elas se tornaram comum no século XX.
 
-Exemplos:
+**Exemplos:**
 - Optima
 - Tahoma
 - Gill Sans
