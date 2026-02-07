@@ -69,3 +69,13 @@ São fontes  com serifas retangulares bastante evidentes. Geralmente da mesma es
 - Egyptienne
 - Rockwell
 - Clarendon
+
+# Cursivas, Sccripts ou Manuscritas
+
+### Transacionais (Cursivas ou Script)
+É uma fonte que tem origem na escrita caligráfica italiana e se aproxima das fontes que baseiam na escritura manual.
+
+**Exemplos:**
+- Francesca
+- Mistral
+- Shelley
