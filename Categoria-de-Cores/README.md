@@ -22,7 +22,7 @@ Cores inspiradas na natureza, como marrons, terracota, verdes musgo e azuis prof
 
 - **Sensação:** Transmitem conforto, estabilidade, organicidade e confiabilidade.
 
-![Imagem sobre as Categoria 2 Terra](/assets/Categoria3Terra.png)
+![Imagem sobre as Categoria 3 Terra](/assets/Categoria3Terra.png)
 
 4. Tons Neutros (Neutral Tones)
 Cores com saturação muito baixa, como beges, cremes e cinzas quentes.
