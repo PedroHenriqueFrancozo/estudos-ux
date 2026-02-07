@@ -2,6 +2,8 @@
 
 Essas categorias ajudam a agrupar cores que compartilham propriedades semelhantes de saturação e brilho, criando sensações específicas:
 
+![Imagem sobre as Categoria de Cores](/assets/CategoriaDeCores.png)
+
 ### 1. Tons de Joias (Jewel Tones)
 São cores ricas e profundamente saturadas, inspiradas em pedras preciosas como esmeralda, rubi e safira.
 
@@ -46,5 +48,3 @@ O contraste absoluto entre o preto e o branco.
 ![Imagem sobre as Categoria 6 Shades](/assets/Categoria6Shades.png)
 
 ---
-
-![Imagem sobre as Categoria de Cores](/assets/CategoriaDeCores.png)
