@@ -15,6 +15,8 @@ São cores com alta luminosidade e baixa saturação (muito branco adicionado).
 
 - **Sensação:** Transmitem suavidade, calma, leveza e são muito comuns em contextos infantis ou de bem-estar.
 
+![Imagem sobre as Categoria 2 Pastel](/assets/Categoria2Pastel.png)
+
 3. Tons da Terra (Earth Tones)
 Cores inspiradas na natureza, como marrons, terracota, verdes musgo e azuis profundos.
 
