@@ -17,3 +17,8 @@ São cores com alta luminosidade e baixa saturação (muito branco adicionado).
 Cores inspiradas na natureza, como marrons, terracota, verdes musgo e azuis profundos.
 
 - **Sensação:** Transmitem conforto, estabilidade, organicidade e confiabilidade.
+
+4. Tons Neutros (Neutral Tones)
+Cores com saturação muito baixa, como beges, cremes e cinzas quentes.
+
+- **Sensação:** Servem como base para qualquer design; são discretos e não competem com outras cores.
