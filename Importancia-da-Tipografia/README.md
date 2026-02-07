@@ -61,3 +61,11 @@ Os tipos modernos causaram uma ruptura radical da tipografia tradicional, na ép
 - Didot
 - Wallbaum
 - Bosini
+
+### Egípcias (Antigas)
+São fontes  com serifas retangulares bastante evidentes. Geralmente da mesma espessura que as hastes. Letras baseadas no estilo das inscrições egípcias, que eram esculpidos em pedra.
+
+**Exemplos:**
+- Egyptienne
+- Rockwell
+- Clarendon
