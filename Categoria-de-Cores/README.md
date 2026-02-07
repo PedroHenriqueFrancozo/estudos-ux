@@ -27,3 +27,8 @@ Cores com saturação muito baixa, como beges, cremes e cinzas quentes.
 Cores extremamente vibrantes e saturadas, quase "neon".
 
 - **Sensação:** Transmitem muita energia, urgência, modernidade e chamam a atenção imediatamente.
+
+6. Tons / Shades (Black & White)
+O contraste absoluto entre o preto e o branco.
+
+- **Sensação:** O branco traz clareza e espaço; o preto traz peso, contraste e modernidade.
