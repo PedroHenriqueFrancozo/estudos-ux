@@ -36,6 +36,8 @@ Cores extremamente vibrantes e saturadas, quase "neon".
 
 - **Sensação:** Transmitem muita energia, urgência, modernidade e chamam a atenção imediatamente.
 
+![Imagem sobre as Categoria 5 Fluerencêntes/Neon](/assets/Categoria5Neon.png)
+
 6. Tons / Shades (Black & White)
 O contraste absoluto entre o preto e o branco.
 
