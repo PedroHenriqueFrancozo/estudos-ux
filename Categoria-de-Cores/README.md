@@ -7,6 +7,8 @@ São cores ricas e profundamente saturadas, inspiradas em pedras preciosas como 
 
 - **Sensação:** Transmitem elegância, luxo, poder e sofisticação.
 
+![Imagem sobre as Categoria 1 Jóias(JEWELS)](/assets/Categoria1Joias.png)
+
 2. Tons de Pastel (Pastel Tones)
 
 São cores com alta luminosidade e baixa saturação (muito branco adicionado).
