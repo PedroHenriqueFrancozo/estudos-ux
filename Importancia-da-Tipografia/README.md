@@ -45,3 +45,11 @@ As fontes humanistas foram os primeiros tipos criados na Itália e se assemelhav
 - Kennerly
 - Lynton
 - Centaur
+
+### Transacionais (Antifas)
+Possuem seridas melhor desenhadas, um exiro mais vertival e menos desleixada que os tipos humanistas. Caracterizam por um baio contraste no peso do traçado e serifas mais afiadas.
+
+**Exemplos:**
+- Perpétua
+- Times New Roman
+- Baskerville
