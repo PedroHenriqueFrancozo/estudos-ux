@@ -29,6 +29,8 @@ Cores com saturação muito baixa, como beges, cremes e cinzas quentes.
 
 - **Sensação:** Servem como base para qualquer design; são discretos e não competem com outras cores.
 
+![Imagem sobre as Categoria 4 Neutras](/assets/Categoria4Neutras.png)
+
 5. Tons Fluorescentes (Fluorescent Tones)
 Cores extremamente vibrantes e saturadas, quase "neon".
 
