@@ -53,3 +53,11 @@ Possuem seridas melhor desenhadas, um exiro mais vertival e menos desleixada que
 - Perpétua
 - Times New Roman
 - Baskerville
+
+### Modernas
+Os tipos modernos causaram uma ruptura radical da tipografia tradicional, na época com alto constrates de traços, serifas retas e um eixo totalmente verticala
+
+**Exemplos:**
+- Didot
+- Wallbaum
+- Bosini
