@@ -79,3 +79,15 @@ São fontes  com serifas retangulares bastante evidentes. Geralmente da mesma es
 - Francesca
 - Mistral
 - Shelley
+
+# Display ou DEcorativas
+
+### Decorartivas (Display)
+
+Tipos projetadas para uso em display / títulos, possuem muita amplitude e chama a atenção. Não são adequadas para textos extensos, apenas para curtos.
+
+**Exemplos:**
+- Techno
+- Cômico
+- Pixel
+- Sancreek
