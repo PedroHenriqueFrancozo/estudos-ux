@@ -149,3 +149,9 @@
 - **06/02/2026**: As 6 Categorias Estéticas de Cores.
   - Estudo de Joias, Pastel, Terra, Neutros, Fluorescentes e Shades.
   - Como a escolha da categoria define a personalidade e o "humor" da interface.
+
+- **07/02/2026**: Classificação Profunda de Tipografia.
+  - Sans Serif: Diferença entre Humanistas (leitura), Transicionais (neutralidade) e Geométricas (estética).
+  - Serif: Evolução das Humanistas às Modernas e o peso das Egípcias (Slab).
+  - Uso funcional: Scripts e Decorativas limitadas a títulos e marcas.
+  - Foco em legibilidade vs. expressão visual.
