@@ -145,3 +145,7 @@
   - RGB: Modelo aditivo para telas (foco em luz).
   - HSB/HSV: O modelo mais intuitivo para manipulação de interface, separando cor, pureza e luminosidade.
   - Entendimento da transição entre luz projetada e cor impressa.
+
+- **06/02/2026**: As 6 Categorias Estéticas de Cores.
+  - Estudo de Joias, Pastel, Terra, Neutros, Fluorescentes e Shades.
+  - Como a escolha da categoria define a personalidade e o "humor" da interface.
