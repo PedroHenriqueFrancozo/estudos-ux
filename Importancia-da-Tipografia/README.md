@@ -19,3 +19,11 @@ Inspirados nos tipos romanos, possuem um aspecto orgânico e boa legibilidade pa
 - Optima
 - Tahoma
 - Gill Sans
+
+### Transacionais (Sem Serifas)
+Baseado nos tipos grotescos, esta categoria neo-grotesques apresentam uma maior modulação em seus traços e uma construção mais refinada e simplificada. Indicadas para textos medianos a curtos. Pela ótima leitura, é indica para sinalização.
+
+**Exemplos:**
+- Univers
+- Bell Gothic
+- Helvetica
