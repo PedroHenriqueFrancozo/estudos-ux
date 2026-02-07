@@ -22,3 +22,8 @@ Cores inspiradas na natureza, como marrons, terracota, verdes musgo e azuis prof
 Cores com saturação muito baixa, como beges, cremes e cinzas quentes.
 
 - **Sensação:** Servem como base para qualquer design; são discretos e não competem com outras cores.
+
+5. Tons Fluorescentes (Fluorescent Tones)
+Cores extremamente vibrantes e saturadas, quase "neon".
+
+- **Sensação:** Transmitem muita energia, urgência, modernidade e chamam a atenção imediatamente.
