@@ -43,6 +43,8 @@ O contraste absoluto entre o preto e o branco.
 
 - **Sensação:** O branco traz clareza e espaço; o preto traz peso, contraste e modernidade.
 
+![Imagem sobre as Categoria 6 Shades](/assets/Categoria6Shades.png)
+
 ---
 
 ![Imagem sobre as Categoria de Cores](/assets/CategoriaDeCores.png)
