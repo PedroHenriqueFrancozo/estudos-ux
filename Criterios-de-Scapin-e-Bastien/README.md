@@ -1,0 +1,1 @@
+# 🛡️ Os 8 Critérios Ergonômicos de Scapin & Bastien
