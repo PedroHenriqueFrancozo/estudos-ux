@@ -39,3 +39,8 @@ As escolhas de design (ícones, botões, vocabulário) devem ser mantidas idênt
 A relação entre o que o usuário vê (ícones, cores, abreviações) e o que eles significam deve ser óbvia e familiar.
 
 - **Resumo:** O ícone de "disquete" ainda significa salvar? O vermelho significa alerta?
+
+### 8. Compatibilidade (Compatibility)
+A interface deve ser compatível com as características do usuário (idade, cultura) e com a tarefa que ele está realizando.
+
+- **Resumo:** O sistema combina com o mundo real do usuário?
