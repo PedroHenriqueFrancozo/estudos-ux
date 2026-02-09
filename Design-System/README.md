@@ -68,6 +68,20 @@ Cores primárias, secundárias e neutras, com seus respectivos códigos HEX/RGB.
 Padronização de avisos de erro, sucesso e alertas do sistema.
 ![Modelos de componentes para mensagens de erro, sucesso e alerta](/assets/ex_notification.png)
 
+---
+
+# ⚛️ Atomic Design
+
+A **Atomic design** é uma metodologia criada por `Brad Frost em 2013`, para a criação de um Design System. Ela apresenta um paralelo entre a química e componentizção de elementos de interface.
+
+Partindo do príncípio de que toda matéria é composta de átomos, e que essas unidades atômicas se organizam para formar estruturas mais complexas.
+
+O Atomic Design é dividido em cinco níveis.
+
+### Os Cinco Níveis do Design System
+
+![Imagem sobre os cinco níveis do Design System](/assets/DesignSystem.png)
+
 
 
 
