@@ -23,3 +23,6 @@ A capacidade do sistema de reagir conforme o contexto e as necessidades do usuá
 
 - **Subitens:** Flexibilidade (atalhos) e Experiência do Usuário (personalização).
 - **Resumo:** A interface se adapta a um usuário novato e a um usuário "pro"?
+
+### 5. Gestão de Erros (Error Management)
+Trata da prevenção de erros, da facilidade de recuperação e das mensagens que explicam o problema.
