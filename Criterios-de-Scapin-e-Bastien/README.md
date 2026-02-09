@@ -11,3 +11,6 @@ O objetivo é reduzir ao mínimo a carga cognitiva (esforço mental) e a memóri
 
 - **Subitens:** Brevidade (Conciclão e Ações Mínimas) e Densidade Informativa (não entulhar a tela).
 - **Resumo:** O usuário precisa fazer cliques demais ou ler textos gigantes para completar a tarefa?
+
+### 3. Controle Explícito (Explicit Control)
+O sistema deve processar apenas as ações solicitadas pelo usuário e permitir que ele tenha o controle do fluxo.
