@@ -14,3 +14,6 @@ O objetivo é reduzir ao mínimo a carga cognitiva (esforço mental) e a memóri
 
 ### 3. Controle Explícito (Explicit Control)
 O sistema deve processar apenas as ações solicitadas pelo usuário e permitir que ele tenha o controle do fluxo.
+
+- **Subitens:** Ações Explícitas do Usuário e Controle do Usuário (capacidade de interromper ou retomar).
+- **Resumo:** O sistema faz coisas "sozinho" ou espera o comando do usuário? Ele permite cancelar?
