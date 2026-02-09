@@ -85,3 +85,5 @@ O Atomic Design é dividido em cinco níveis.
 # Átomos
 
 Em uma interface os menores elementos visuais seriam, por exemplo, label, field, button. Átomos também representam elementos mais abstratos, que podem ser chamados de tokens, como a paletas de cores, fontes, tamanho, espaçamento e etc.
+
+Os Átomos são bons como referência no contexto de uma biblioteca de padrões, pois você pode ver todos os seus estilos rapidamente
