@@ -44,3 +44,9 @@ A relação entre o que o usuário vê (ícones, cores, abreviações) e o que e
 A interface deve ser compatível com as características do usuário (idade, cultura) e com a tarefa que ele está realizando.
 
 - **Resumo:** O sistema combina com o mundo real do usuário?
+
+--- 
+
+# 💡 Dica: Scapin vs. Nielsen
+
+**Nielsen** é mais focado em "regras de bolso" rápidas, **Scapin & Bastien** é mais rigoroso e técnico, ideal para quando você precisa de um check-list profundo para evitar erros graves de usabilidade.
