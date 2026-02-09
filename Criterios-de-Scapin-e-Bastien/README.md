@@ -34,3 +34,8 @@ Trata da prevenção de erros, da facilidade de recuperação e das mensagens qu
 As escolhas de design (ícones, botões, vocabulário) devem ser mantidas idênticas em contextos semelhantes.
 
 - **Resumo:** O botão de "Avançar" é sempre igual e está sempre no mesmo lugar?
+
+### 7. Significado dos Códigos (Significance of Codes)
+A relação entre o que o usuário vê (ícones, cores, abreviações) e o que eles significam deve ser óbvia e familiar.
+
+- **Resumo:** O ícone de "disquete" ainda significa salvar? O vermelho significa alerta?
