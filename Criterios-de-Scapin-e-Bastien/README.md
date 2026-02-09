@@ -20,3 +20,6 @@ O sistema deve processar apenas as ações solicitadas pelo usuário e permitir 
 
 ### 4. Adaptabilidade (Adaptability)
 A capacidade do sistema de reagir conforme o contexto e as necessidades do usuário (nível de experiência, preferências).
+
+- **Subitens:** Flexibilidade (atalhos) e Experiência do Usuário (personalização).
+- **Resumo:** A interface se adapta a um usuário novato e a um usuário "pro"?
