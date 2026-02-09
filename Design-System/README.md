@@ -78,9 +78,7 @@ Partindo do príncípio de que toda matéria é composta de átomos, e que essas
 
 O Atomic Design é dividido em cinco níveis.
 
-### Os Cinco Níveis do Design System
 
-![Imagem sobre os cinco níveis do Design System](/assets/DesignSystem.png)
 
 
 
