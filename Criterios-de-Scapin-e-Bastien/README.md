@@ -5,3 +5,9 @@ Refere-se ao conjunto de meios colocados à disposição do usuário para aconse
 
 - **Subitens:** Legibilidade, Agrupamento (Diferenciação/Associação), Feedback Imediato e Legibilidade.
 - **Resumo:** O sistema está ajudando o usuário a saber onde ele está e para onde pode ir?
+
+### 2. Carga de Trabalho (Workload)
+O objetivo é reduzir ao mínimo a carga cognitiva (esforço mental) e a memória de curto prazo do usuário.
+
+- **Subitens:** Brevidade (Conciclão e Ações Mínimas) e Densidade Informativa (não entulhar a tela).
+- **Resumo:** O usuário precisa fazer cliques demais ou ler textos gigantes para completar a tarefa?
