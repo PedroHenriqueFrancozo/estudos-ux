@@ -155,3 +155,8 @@
   - Serif: Evolução das Humanistas às Modernas e o peso das Egípcias (Slab).
   - Uso funcional: Scripts e Decorativas limitadas a títulos e marcas.
   - Foco em legibilidade vs. expressão visual.
+
+- **08/02/2026**: Critérios Ergonômicos de Scapin & Bastien.
+  - Estudo dos 8 pilares da usabilidade profunda.
+  - Foco em Carga de Trabalho, Controle Explícito e Gestão de Erros.
+  - Aplicação: Diagnóstico técnico de interfaces para redução de esforço cognitivo.
