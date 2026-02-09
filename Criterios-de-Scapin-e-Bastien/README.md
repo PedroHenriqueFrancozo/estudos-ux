@@ -17,3 +17,6 @@ O sistema deve processar apenas as ações solicitadas pelo usuário e permitir 
 
 - **Subitens:** Ações Explícitas do Usuário e Controle do Usuário (capacidade de interromper ou retomar).
 - **Resumo:** O sistema faz coisas "sozinho" ou espera o comando do usuário? Ele permite cancelar?
+
+### 4. Adaptabilidade (Adaptability)
+A capacidade do sistema de reagir conforme o contexto e as necessidades do usuário (nível de experiência, preferências).
