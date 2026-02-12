@@ -170,3 +170,9 @@
   - Definição de áreas de exportação personalizadas.
   - Diferença entre exportar Frames e Slices.
   - Configurações de exportação (formatos e escalas).
+
+- **12/02/2026**: Domínio da Pen Tool (P).
+  - Conceito de Vector Networks (conexões múltiplas em um ponto).
+  - Manipulação de Pontos de Ancoragem e Alças de Bézier.
+  - Uso da Bend Tool para ajustes rápidos de curvatura.
+  - Criação de formas personalizadas e ícones básicos.
