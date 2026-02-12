@@ -160,3 +160,8 @@
   - Estudo dos 8 pilares da usabilidade profunda.
   - Foco em Carga de Trabalho, Controle Explícito e Gestão de Erros.
   - Aplicação: Diagnóstico técnico de interfaces para redução de esforço cognitivo.
+
+- **12/02/2026**: Início do aprendizado prático no Figma.
+  - Domínio das ferramentas de Shapes (R, O, L).
+  - Uso de modificadores (Shift/Alt) para precisão geométrica.
+  - Manipulação de propriedades: Corner Radius, Fill e Stroke.
