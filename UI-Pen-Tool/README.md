@@ -23,3 +23,6 @@ No Figma, a Pen Tool não é apenas linear. Pode conectar um ponto a vários out
 - `Shift`: Mantém a linha perfeitamente reta (em ângulos de 45° ou 90°).
 - `Esc`: Finaliza o caminho atual, mas mantém você na ferramenta Pen.
 - `Pressione Alt` (sobre uma alça): Permite mover apenas um lado da alça de curva de forma independente.
+
+# 💡 Dica: "O Jogo da Caneta"
+Dominar a Pen Tool é questão de memória muscular. Uma boa regra é: use o menor número de pontos possível. Quanto menos pontos usar, mais suave e limpa será a curva.
