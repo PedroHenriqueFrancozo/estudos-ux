@@ -23,3 +23,10 @@ O Figma oferece três formas de comportamento para a caixa de texto:
 - **Auto Width:** A caixa expande para os lados conforme você escreve.
 - **Auto Height:** A largura é fixa, mas a caixa cresce para baixo conforme o texto aumenta.
 - **Fixed Size:** A caixa tem tamanho fixo. Se o texto for maior que a caixa, ele transborda (útil para testar layouts com textos longos).
+
+### 4. Atalhos úteis de Texto
+
+- `Ctrl + B` (ou `Cmd + B`): Negrito (Bold).
+- `Ctrl + I` (ou `Cmd + I`): Itálico.
+- `Ctrl + L / E / R`: Alinhamento à Esquerda, Centro ou Direita.
+- `Shift + Ctrl + <` ou `>`: Aumenta ou diminui o tamanho da fonte rapidamente.
