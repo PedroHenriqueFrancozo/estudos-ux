@@ -24,3 +24,6 @@ Ao selecionar um shape, o painel à direita mostra:
 - **Fill (Preenchimento):** Define a cor, gradiente ou imagem dentro da forma.
 - **Stroke (Contorno):** Define a borda, sua espessura e posição (Inside, Center, Outside).
 - **Effects (Efeitos):** Onde adicionamos o Drop Shadow (sombra) ou Layer Blur.
+
+# 💡 Dica de Prática
+No Figma, se clicar em um Círculo e procurar um ponto chamado "**Arc**", você pode transformá-lo em um gráfico de pizza ou em um anel de progresso apenas arrastando.
