@@ -17,3 +17,9 @@ No Figma, a Pen Tool não é apenas linear. Pode conectar um ponto a vários out
 - **Handles (Alças de Bézier):** As hastes que aparecem ao clicar e arrastar. Elas controlam a curvatura da linha.
 - **Bends (Curvas):** Você pode usar a ferramenta Bend Tool (Ctrl ou Cmd pressionado) para transformar uma linha reta em curva sem precisar mexer nas alças manualmente.
 
+### 4. Atalhos Essenciais da Pen Tool
+
+- `Enter`: Entra ou sai do modo de edição de vetor.
+- `Shift`: Mantém a linha perfeitamente reta (em ângulos de 45° ou 90°).
+- `Esc`: Finaliza o caminho atual, mas mantém você na ferramenta Pen.
+- `Pressione Alt` (sobre uma alça): Permite mover apenas um lado da alça de curva de forma independente.
