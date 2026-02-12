@@ -16,3 +16,10 @@ Ao selecionar um texto, o painel à direita libera as configurações:
 **Line Height (Entrelinha):** O espaço vertical entre as linhas. Fundamental para a legibilidade.
 **Letter Spacing:** O espaço entre as letras.
 **Paragraph Spacing:** O espaço entre parágrafos (evita que você precise dar "Enter" duas vezes).
+
+### 3. Alinhamento e Auto Resizing
+O Figma oferece três formas de comportamento para a caixa de texto:
+
+- **Auto Width:** A caixa expande para os lados conforme você escreve.
+- **Auto Height:** A largura é fixa, mas a caixa cresce para baixo conforme o texto aumenta.
+- **Fixed Size:** A caixa tem tamanho fixo. Se o texto for maior que a caixa, ele transborda (útil para testar layouts com textos longos).
