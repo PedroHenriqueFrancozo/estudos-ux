@@ -165,3 +165,8 @@
   - Domínio das ferramentas de Shapes (R, O, L).
   - Uso de modificadores (Shift/Alt) para precisão geométrica.
   - Manipulação de propriedades: Corner Radius, Fill e Stroke.
+
+- **12/02/2026**: Ferramenta Slice (S).
+  - Definição de áreas de exportação personalizadas.
+  - Diferença entre exportar Frames e Slices.
+  - Configurações de exportação (formatos e escalas).
