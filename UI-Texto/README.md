@@ -30,3 +30,6 @@ O Figma oferece três formas de comportamento para a caixa de texto:
 - `Ctrl + I` (ou `Cmd + I`): Itálico.
 - `Ctrl + L / E / R`: Alinhamento à Esquerda, Centro ou Direita.
 - `Shift + Ctrl + <` ou `>`: Aumenta ou diminui o tamanho da fonte rapidamente.
+
+# 💡 Dica: Lorem Ipsum
+No dia a dia, para não perder tempo escrevendo textos fictícios, muitos designers usam o plugin "Lorem Ipsum" diretamente no Figma para preencher os campos e ver como o layout se comporta.
