@@ -13,7 +13,14 @@ As formas geométricas (Shapes) são os blocos de construção de qualquer inter
 ### 2. Modificadores Essenciais (Atalhos de Ouro)
 Para desenhar com precisão, usamos o teclado enquanto arrastamos o mouse:
 
-**`Shift` pressionado:** Mantém as proporções perfeitas (faz um quadrado perfeito ou um círculo perfeito).
-**`Alt` pressionado:** Desenha a forma a partir do centro, em vez de desenhar a partir do canto.
-**`Espaço` pressionado:** Permite mover a forma enquanto você ainda a está desenhando.
+- **`Shift` pressionado:** Mantém as proporções perfeitas (faz um quadrado perfeito ou um círculo perfeito).
+- **`Alt` pressionado:** Desenha a forma a partir do centro, em vez de desenhar a partir do canto.
+- **`Espaço` pressionado:** Permite mover a forma enquanto você ainda a está desenhando.
 
+### 3. Propriedades de Edição (Painel Design)
+Ao selecionar um shape, o painel à direita mostra:
+
+- **Corner Radius (Raio do Canto):** Transforma cantos vivos em cantos arredondados (essencial para o visual moderno de apps).
+- **Fill (Preenchimento):** Define a cor, gradiente ou imagem dentro da forma.
+- **Stroke (Contorno):** Define a borda, sua espessura e posição (Inside, Center, Outside).
+- **Effects (Efeitos):** Onde adicionamos o Drop Shadow (sombra) ou Layer Blur.
