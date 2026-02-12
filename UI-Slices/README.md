@@ -19,3 +19,7 @@ Ao desenhar um Slice sobre o design:
 - **Área de Corte:** Tudo o que estiver visualmente dentro do retângulo do Slice será incluído na imagem final.
 - **Export Settings:** No painel lateral direito, em Export, podes definir o formato (PNG, JPG, SVG, PDF) e o tamanho (1x, 2x, etc.).
 - **Conteúdo Oculto:** O Slice ignora as camadas que estão ocultas no painel de camadas.
+
+# 4. Dica: "Contents Only"
+
+No painel de exportação de um Slice, existe uma opção chamada "**Export Group Contents Only**". Se estiver ativa, o Slice tentará ignorar o fundo (background) e exportar apenas os objetos que estão dentro daquela área.
