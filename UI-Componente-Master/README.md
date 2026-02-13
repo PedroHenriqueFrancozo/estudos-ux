@@ -22,6 +22,6 @@ Você pode alterar algumas propriedades em uma **Instância** sem desconectá-la
 
 ### 4. Por que usar Componentes?
 
-**Eficiência:** Precisa mudar a cor de 50 botões? Mude apenas no Master.
-**Consistência:** Garante que todos os botões, ícones e inputs tenham o mesmo estilo.
-**Organização:** Todos os seus componentes ficam salvos na aba Assets, prontos para serem arrastados para qualquer tela.
+- **Eficiência:** Precisa mudar a cor de 50 botões? Mude apenas no Master.
+- **Consistência:** Garante que todos os botões, ícones e inputs tenham o mesmo estilo.
+- **Organização:** Todos os seus componentes ficam salvos na aba Assets, prontos para serem arrastados para qualquer tela.
