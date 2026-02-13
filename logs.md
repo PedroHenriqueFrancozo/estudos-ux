@@ -182,3 +182,9 @@
   - Ajustes de legibilidade: Line Height e Paragraph Spacing.
   - Alinhamento e hierarquia através de pesos e tamanhos.
   - Integração com Google Fonts.
+
+- **12/02/2026**: Componentes Master e Instâncias.
+  - Criação de Main Components (Ctrl + Alt + K).
+  - Gestão de Instâncias e uso de Overrides para customização.
+  - Manutenção de consistência global através do componente pai.
+  - Organização de elementos reutilizáveis na aba Assets.
