@@ -176,3 +176,9 @@
   - Manipulação de Pontos de Ancoragem e Alças de Bézier.
   - Uso da Bend Tool para ajustes rápidos de curvatura.
   - Criação de formas personalizadas e ícones básicos.
+
+- **12/02/2026**: Ferramenta de Texto (T).
+  - Diferença entre caixas de texto fixas e automáticas.
+  - Ajustes de legibilidade: Line Height e Paragraph Spacing.
+  - Alinhamento e hierarquia através de pesos e tamanhos.
+  - Integração com Google Fonts.
