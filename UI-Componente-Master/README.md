@@ -1,0 +1,2 @@
+# 💎 Figma: Componentes Master e Instâncias
+Os componentes são elementos que podem ser reutilizados em todo o seu design. Eles ajudam a manter a consistência e tornam a atualização do projeto muito mais rápida.
