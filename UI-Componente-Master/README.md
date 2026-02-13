@@ -25,3 +25,6 @@ Você pode alterar algumas propriedades em uma **Instância** sem desconectá-la
 - **Eficiência:** Precisa mudar a cor de 50 botões? Mude apenas no Master.
 - **Consistência:** Garante que todos os botões, ícones e inputs tenham o mesmo estilo.
 - **Organização:** Todos os seus componentes ficam salvos na aba Assets, prontos para serem arrastados para qualquer tela.
+
+# 💡 Dica: "Go to Main Component"
+Se estiver editando uma tela e precisar mudar o Master que está escondido em outro lugar, basta selecionar a instância e clicar no ícone de diamante no painel direito (ou botão direito > Go to main component). O Figma te leva direto para a matriz.
