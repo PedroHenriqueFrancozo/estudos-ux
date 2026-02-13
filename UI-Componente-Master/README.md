@@ -12,3 +12,10 @@ São as cópias do componente Master. Elas estão "conectadas" ao pai, mas permi
 
 - **Como criar:** Basta copiar o Master (`Ctrl + C` / `Ctrl + V`) ou arrastar do painel de Assets.
 - **Identificação:** No painel de camadas, a instância é representada por um ícone de 1 diamante vazado.
+
+### 3. O conceito de Overrides (Sobreposições)
+Você pode alterar algumas propriedades em uma **Instância** sem desconectá-la do Master:
+
+- **O que você PODE mudar:** Texto (conteúdo), Cor de preenchimento, Efeitos (sombra).
+- **O que você NÃO DEVE mudar (para não quebrar a lógica):** Posição dos elementos internos ou estrutura básica.
+- **Reset:** Se você se arrepender, pode clicar com o botão direito na instância e selecionar "Reset all changes" para ela voltar a ser idêntica ao Master.
