@@ -19,3 +19,9 @@ Você pode alterar algumas propriedades em uma **Instância** sem desconectá-la
 - **O que você PODE mudar:** Texto (conteúdo), Cor de preenchimento, Efeitos (sombra).
 - **O que você NÃO DEVE mudar (para não quebrar a lógica):** Posição dos elementos internos ou estrutura básica.
 - **Reset:** Se você se arrepender, pode clicar com o botão direito na instância e selecionar "Reset all changes" para ela voltar a ser idêntica ao Master.
+
+### 4. Por que usar Componentes?
+
+**Eficiência:** Precisa mudar a cor de 50 botões? Mude apenas no Master.
+**Consistência:** Garante que todos os botões, ícones e inputs tenham o mesmo estilo.
+**Organização:** Todos os seus componentes ficam salvos na aba Assets, prontos para serem arrastados para qualquer tela.
