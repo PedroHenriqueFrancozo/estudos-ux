@@ -14,3 +14,6 @@ A escolha entre lista ou grade depende do tipo de conteúdo e do objetivo do usu
 ### 2. Prática no Figma: Construindo a Interface
 
 **Grid Layout e Espaçamento**
+
+- **Configuração:** Uso de 2 colunas com **Margem e Respiro (Gutter)** de 16px.
+- **Nota técnica:** 16px é o "padrão de ouro" do mobile, pois garante que os elementos não encostem na borda física do celular.
