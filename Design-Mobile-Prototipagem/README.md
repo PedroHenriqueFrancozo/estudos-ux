@@ -5,3 +5,4 @@ A escolha entre lista ou grade depende do tipo de conteúdo e do objetivo do usu
 
 - List View (Modo Lista):
     - **Foco:** Texto e leitura (Padrão em F).
+    - **Vantagem:** Permite escanear informações rapidamente sem distrações visuais. Ótimo para detalhes técnicos, nomes ou mensagens.
