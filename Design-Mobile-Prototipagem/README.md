@@ -21,3 +21,5 @@ A escolha entre lista ou grade depende do tipo de conteúdo e do objetivo do usu
 ### O Poder do Auto Layout
 o Auto Layout no botão "Conhecer".
 
+- **Padding (Respiro):** 24px (lateral) e 12px (vertical).
+- **Vantagem:** O botão se torna "elástico". Se você mudar o texto de "Conhecer" para "Saiba mais agora", o botão cresce sozinho mantendo as margens.
