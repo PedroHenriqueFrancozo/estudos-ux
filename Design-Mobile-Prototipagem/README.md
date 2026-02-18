@@ -29,3 +29,7 @@ o Auto Layout no botão "Conhecer".
 - **Botão Home:** Adicionei um shape invisível para aumentar a área de clique.
 - **Dica de UX:** A Apple e o Google recomendam uma área de toque mínima de **44x44px** ou **48x48px**, mesmo que o ícone seja menor. Isso evita que o usuário clique e "nada aconteça".
 
+### Efeitos Visuais
+
+- **Máscaras:** Uso de imagens sobre shapes para controle de bordas.
+
