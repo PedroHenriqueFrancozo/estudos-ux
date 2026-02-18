@@ -188,3 +188,9 @@
   - Gestão de Instâncias e uso de Overrides para customização.
   - Manutenção de consistência global através do componente pai.
   - Organização de elementos reutilizáveis na aba Assets.
+
+- **18/02/2026**: Padrões de Exibição e Construção Mobile.
+  - Diferenciação entre List View (leitura) e Grid View (visual).
+  - Configuração de Grid Layout (colunas e margens de 16px).
+  - Uso avançado de Auto Layout para botões responsivos.
+  - Aplicação de conceitos de usabilidade (área de toque e elevação).
