@@ -9,3 +9,4 @@ A escolha entre lista ou grade depende do tipo de conteúdo e do objetivo do usu
 
 - Grid View (Modo Grade):
     - **Foco:** Imagens e exploração visual.
+    - **Vantagem:** A atenção é distribuída. É ideal quando o usuário precisa escolher baseado na aparência (ex: e-commerce de roupas ou galeria de fotos).
