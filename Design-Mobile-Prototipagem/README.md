@@ -45,3 +45,4 @@ o Auto Layout no botão "Conhecer".
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 
 1. Seleção dos Itens: Selecei o Avatar + Título + Ícone.
+2. Aplicação do Auto Layout (`Shift + A`): Isso cria um frame que envolve os três.
