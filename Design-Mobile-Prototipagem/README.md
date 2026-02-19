@@ -37,3 +37,5 @@ o Auto Layout no botão "Conhecer".
 ### Top Bar Inteligente
 
 1. Estrutura da Top Bar
+- Dimensões: 393px (largura total do device) por 72px (altura).
+- Margens Internas: Uso padrão de 16px nas laterais para alinhar com o restante do conteúdo.
