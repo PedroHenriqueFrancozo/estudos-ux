@@ -195,8 +195,12 @@
   - Uso avançado de Auto Layout para botões responsivos.
   - Aplicação de conceitos de usabilidade (área de toque e elevação).
 
-- **19/02/2026**: Componentes Estruturais Mobile.
+- **18/02/2026**: Componentes Estruturais Mobile.
   - Criação de Top Bar responsiva (393x72px).
   - Uso de Auto Layout para gerenciamento de margens internas (16px).
   - Alinhamento dinâmico de elementos (Avatar, Título e Ícone).
   - Otimização de fluxo através de agrupamentos inteligentes.
+
+- **19/02/2026**: Refinamento de UI (Top Bar).
+  - Adição de Drop Shadow sutil (Y: 0.5, Blur: 2, Opacity: 16%).
+  - Conceito de separação de camadas por elevação mínima.
