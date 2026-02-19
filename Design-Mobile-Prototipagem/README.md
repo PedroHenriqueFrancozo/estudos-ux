@@ -44,5 +44,6 @@ o Auto Layout no botão "Conhecer".
 ### 2. Construção com Auto Layout (A forma inteligente)
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 
-1. Seleção dos Itens: Selecei o Avatar + Título + Ícone.
-2. Aplicação do Auto Layout (`Shift + A`): Isso cria um frame que envolve os três.
+1. **Seleção dos Itens:** Selecei o Avatar + Título + Ícone.
+2. **Aplicação do Auto Layout (`Shift + A`):** Isso cria um frame que envolve os três.
+3. **Distribuição Espacial:** * Definimos o alinhamento como Centralizado Verticalmente.
