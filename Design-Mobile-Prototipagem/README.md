@@ -48,3 +48,5 @@ Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 2. **Aplicação do Auto Layout (`Shift + A`):** Isso cria um frame que envolve os três.
 3. **Distribuição Espacial:** * Definimos o alinhamento como Centralizado Verticalmente.
     - Alteramos o espaçamento entre os itens para **"Auto"** (ou usamos Space Between), fazendo com que o título fique no centro ou o avatar e ícone fiquem nas extremidades.
+4. **Padding (Margens):** Adicionamos os **16px** de preenchimento horizontal diretamente nas configurações do Auto Layout.
+
