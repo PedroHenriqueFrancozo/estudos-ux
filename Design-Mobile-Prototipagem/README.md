@@ -44,6 +44,7 @@ o Auto Layout no botão "Conhecer".
     - **Y:** 0.5 (deslocamento vertical mínimo para um efeito de linha fina).
     - **Blur (Desfoque):** 2 (suavização leve).
     - **Opacidade:** 16% (sombra discreta e profissional).
+    - **Objetivo:** Criar separação visual entre o cabeçalho fixo e o conteúdo rolável da página.
 
 ### 2. Construção com Auto Layout (A forma inteligente)
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
