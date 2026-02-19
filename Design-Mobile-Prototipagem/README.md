@@ -53,3 +53,4 @@ Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 
 ### 3. Vantagens do Método Inteligente
 - **Adaptabilidade:** Se mudar o tamanho da tela, a barra se ajusta automaticamente.
+- **Consistência:** A margem de **16px** nunca será "quebrada" por erro humano ao arrastar um objeto.
