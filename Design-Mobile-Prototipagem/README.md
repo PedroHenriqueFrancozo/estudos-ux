@@ -42,6 +42,7 @@ o Auto Layout no botão "Conhecer".
 - Elementos: Avatar (Usuário), Título (Nome da tela/App) e Ícone (Menu/Notificações).
 - Estilização de Elevação (Drop Shadow):
     - **Y:** 0.5 (deslocamento vertical mínimo para um efeito de linha fina).
+    - **Blur (Desfoque):** 2 (suavização leve).
 
 ### 2. Construção com Auto Layout (A forma inteligente)
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
