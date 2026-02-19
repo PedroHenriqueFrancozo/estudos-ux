@@ -33,3 +33,7 @@ o Auto Layout no botão "Conhecer".
 
 - **Máscaras:** Uso de imagens sobre shapes para controle de bordas.
 - **Sombra (Drop Shadow):** Aplicada na barra de navegação para criar **hierarquia visual** (elevação), indicando que a barra está "acima" do conteúdo que rola por baixo.
+
+### Top Bar Inteligente
+
+1. Estrutura da Top Bar
