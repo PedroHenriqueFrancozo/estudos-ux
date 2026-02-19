@@ -44,9 +44,10 @@ o Auto Layout no botão "Conhecer".
 ### 2. Construção com Auto Layout (A forma inteligente)
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 
-1. **Seleção dos Itens:** Selecei o Avatar + Título + Ícone.
+1. **Seleção dos Itens:** Selecionei o Avatar + Título + Ícone.
 2. **Aplicação do Auto Layout (`Shift + A`):** Isso cria um frame que envolve os três.
-3. **Distribuição Espacial:** * Definimos o alinhamento como Centralizado Verticalmente.
-    - Alteramos o espaçamento entre os itens para **"Auto"** (ou usamos Space Between), fazendo com que o título fique no centro ou o avatar e ícone fiquem nas extremidades.
-4. **Padding (Margens):** Adicionamos os **16px** de preenchimento horizontal diretamente nas configurações do Auto Layout.
-5. **Cor e Estilo:** Aplicamos a cor principal diretamente no fundo deste frame.
+3. **Distribuição Espacial:** * Defini o alinhamento como Centralizado Verticalmente.
+    - Altei o espaçamento entre os itens para **"Auto"** (ou usamos Space Between), fazendo com que o título fique no centro ou o avatar e ícone fiquem nas extremidades.
+4. **Padding (Margens):** Adicionei os **16px** de preenchimento horizontal diretamente nas configurações do Auto Layout.
+5. **Cor e Estilo:** Apliquei a cor principal diretamente no fundo deste frame.
+
