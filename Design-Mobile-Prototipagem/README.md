@@ -51,3 +51,5 @@ Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 4. **Padding (Margens):** Adicionei os **16px** de preenchimento horizontal diretamente nas configurações do Auto Layout.
 5. **Cor e Estilo:** Apliquei a cor principal diretamente no fundo deste frame.
 
+### 3. Vantagens do Método Inteligente
+- **Adaptabilidade:** Se mudar o tamanho da tela, a barra se ajusta automaticamente.
