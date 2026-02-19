@@ -40,6 +40,7 @@ o Auto Layout no botão "Conhecer".
 - Dimensões: 393px (largura total do device) por 72px (altura).
 - Margens Internas: Uso padrão de 16px nas laterais para alinhar com o restante do conteúdo.
 - Elementos: Avatar (Usuário), Título (Nome da tela/App) e Ícone (Menu/Notificações).
+- Estilização de Elevação (Drop Shadow):
 
 ### 2. Construção com Auto Layout (A forma inteligente)
 Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
