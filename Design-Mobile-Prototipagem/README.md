@@ -70,3 +70,6 @@ O uso de pesos e cores diferentes serve para indicar ao usuário qual item está
 - **Item Ativo:** Cor #2563EB, Peso `Black` (Máximo destaque).
 - **Item Inativo:** Cor #BBCFF9, Peso Regular.
 - **Espaçamento (Gap):** 4px entre os elementos do grupo.
+
+2. Configuração de Scroll Horizontal (Protótipo)
+Para que o menu deslize para os lados, é necessário configurar o "estouro" do conteúdo:
