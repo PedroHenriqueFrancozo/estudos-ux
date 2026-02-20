@@ -65,3 +65,6 @@ A criação de menus roláveis permite que o usuário acesse várias categorias 
 
 1. Estilização e Hierarquia Visual
 O uso de pesos e cores diferentes serve para indicar ao usuário qual item está **Ativo (Selecionado)** e quais estão **Inativos**.
+
+- **Fonte:** Source Sans Pro (uma excelente escolha para legibilidade em telas).
+- **Item Ativo:** Cor #2563EB, Peso `Black` (Máximo destaque).
