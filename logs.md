@@ -204,3 +204,9 @@
 - **19/02/2026**: Refinamento de UI (Top Bar).
   - Adição de Drop Shadow sutil (Y: 0.5, Blur: 2, Opacity: 16%).
   - Conceito de separação de camadas por elevação mínima.
+
+- **19/02/2026**: Menu de Pesquisa e Scroll Horizontal.
+  - Hierarquia visual com Source Sans Pro (Black vs. Regular).
+  - Uso de cores estratégicas para estados de Seleção (#2563EB).
+  - Configuração de Overflow Scrolling no Prototipagem.
+  - Ajuste técnico de Clip Content e margens de segurança de clique.
