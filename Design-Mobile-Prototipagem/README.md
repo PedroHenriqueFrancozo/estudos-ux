@@ -60,10 +60,10 @@ Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 - **Adaptabilidade:** Se mudar o tamanho da tela, a barra se ajusta automaticamente.
 - **Consistência:** A margem de **16px** nunca será "quebrada" por erro humano ao arrastar um objeto.
 
-### Menu de Pesquisa / Filtros Horizontais
+# Menu de Pesquisa / Filtros Horizontais
 A criação de menus roláveis permite que o usuário acesse várias categorias sem ocupar muito espaço vertical na tela.
 
-1. Estilização e Hierarquia Visual
+### 1. Estilização e Hierarquia Visual
 O uso de pesos e cores diferentes serve para indicar ao usuário qual item está **Ativo (Selecionado)** e quais estão **Inativos**.
 
 - **Fonte:** Source Sans Pro (uma excelente escolha para legibilidade em telas).
@@ -71,8 +71,10 @@ O uso de pesos e cores diferentes serve para indicar ao usuário qual item está
 - **Item Inativo:** Cor #BBCFF9, Peso Regular.
 - **Espaçamento (Gap):** 4px entre os elementos do grupo.
 
-2. Configuração de Scroll Horizontal (Protótipo)
+### 2. Configuração de Scroll Horizontal (Protótipo)
 Para que o menu deslize para os lados, é necessário configurar o "estouro" do conteúdo:
 
 - **Frame de Recorte:** O frame pai deve ter a largura da tela (ex: 393px).
 - **Clip Content:** Esta opção deve estar marcada para "esconder" os itens que passam da borda da tela.
+- **Margem de Segurança:** O ajuste de `-16px` nas bordas garante que o clique do usuário não seja invalidado por estar colado no limite do frame, melhorando a precisão do toque.
+- **Aba Prototype:** No campo Overflow Scrolling, define-se como Horizontal Scrolling.
