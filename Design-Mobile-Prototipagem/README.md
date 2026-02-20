@@ -78,3 +78,8 @@ Para que o menu deslize para os lados, é necessário configurar o "estouro" do 
 - **Clip Content:** Esta opção deve estar marcada para "esconder" os itens que passam da borda da tela.
 - **Margem de Segurança:** O ajuste de `-16px` nas bordas garante que o clique do usuário não seja invalidado por estar colado no limite do frame, melhorando a precisão do toque.
 - **Aba Prototype:** No campo Overflow Scrolling, define-se como Horizontal Scrolling.
+
+### 3. Componente Master vs. Instância
+- **O Componente Master** contém toda a lista esticada com todos os itens.
+- A **Instância** dentro da tela do celular é que tem o tamanho reduzido e o scroll ativado. Isso mantém o design organizado e fácil de editar.
+
