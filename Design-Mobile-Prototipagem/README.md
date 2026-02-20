@@ -68,3 +68,5 @@ O uso de pesos e cores diferentes serve para indicar ao usuário qual item está
 
 - **Fonte:** Source Sans Pro (uma excelente escolha para legibilidade em telas).
 - **Item Ativo:** Cor #2563EB, Peso `Black` (Máximo destaque).
+- **Item Inativo:** Cor #BBCFF9, Peso Regular.
+- **Espaçamento (Gap):** 4px entre os elementos do grupo.
