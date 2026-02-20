@@ -62,3 +62,6 @@ Em vez de posicionar cada item manualmente sobre um retângulo, segui o fluxo:
 
 ### Menu de Pesquisa / Filtros Horizontais
 A criação de menus roláveis permite que o usuário acesse várias categorias sem ocupar muito espaço vertical na tela.
+
+1. Estilização e Hierarquia Visual
+O uso de pesos e cores diferentes serve para indicar ao usuário qual item está **Ativo (Selecionado)** e quais estão **Inativos**.
