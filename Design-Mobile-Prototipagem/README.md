@@ -73,3 +73,6 @@ O uso de pesos e cores diferentes serve para indicar ao usuário qual item está
 
 2. Configuração de Scroll Horizontal (Protótipo)
 Para que o menu deslize para os lados, é necessário configurar o "estouro" do conteúdo:
+
+- **Frame de Recorte:** O frame pai deve ter a largura da tela (ex: 393px).
+- **Clip Content:** Esta opção deve estar marcada para "esconder" os itens que passam da borda da tela.
