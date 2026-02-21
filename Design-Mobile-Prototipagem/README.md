@@ -115,3 +115,7 @@ Para conseguir o efeito de "espaço entre" os elementos (título de um lado e bo
 - **Grupo B:** O Botão de Like.
 - **Frame Pai:** Um Auto Layout englobando o **Grupo A** e o **Grupo B**.
 - **Distribuição:** Configurado como "**Space Between**" (Espaço entre), o que "empurra" o título para a esquerda e o botão para a direita, independentemente da largura do card.
+
+### 3. Prototipagem de Fluxo
+- **Overflow Scrolling:** Configurado como Horizontal na aba Prototype.
+- **Clip Content:** Ativado no frame pai (do tamanho da tela do celular) para esconder o restante do carrossel de 618px e permitir o deslize.
