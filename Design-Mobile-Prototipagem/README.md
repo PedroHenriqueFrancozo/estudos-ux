@@ -84,3 +84,4 @@ Para que o menu deslize para os lados, é necessário configurar o "estouro" do 
 - A **Instância** dentro da tela do celular é que tem o tamanho reduzido e o scroll ativado. Isso mantém o design organizado e fácil de editar.
 
 # 🎡 Figma: Construção de Carrossel de Cards
+O carrossel é um elemento de alto impacto visual que combina imagens, informações de destaque e controles de interação.
