@@ -136,3 +136,4 @@ A criação de listas verticais extensas requer atenção à hierarquia de camad
 ### 3. Engenharia do Protótipo (Comportamento de Tela)
 Para que a experiência mobile seja realista, foram aplicadas as seguintes configurações na aba Prototype:
 
+- **Status Bar (Topo):** Configurada como "Fixed" (Stay in place). Ela fica sempre no topo, independentemente da rolagem.
