@@ -113,3 +113,5 @@ Para conseguir o efeito de "espaço entre" os elementos (título de um lado e bo
 
 - **Grupo A:** Auto Layout entre [Texto do Título + Estrelas de Avaliação].
 - **Grupo B:** O Botão de Like.
+- **Frame Pai:** Um Auto Layout englobando o **Grupo A** e o **Grupo B**.
+- **Distribuição:** Configurado como "**Space Between**" (Espaço entre), o que "empurra" o título para a esquerda e o botão para a direita, independentemente da largura do card.
