@@ -83,7 +83,7 @@ Para que o menu deslize para os lados, é necessário configurar o "estouro" do 
 - **O Componente Master** contém toda a lista esticada com todos os itens.
 - A **Instância** dentro da tela do celular é que tem o tamanho reduzido e o scroll ativado. Isso mantém o design organizado e fácil de editar.
 
-# 🎡 Figma: Construção de Carrossel de Cards
+# 🎡 Construção de Carrossel de Cards
 O carrossel é um elemento de alto impacto visual que combina imagens, informações de destaque e controles de interação.
 
 ### 1. Estrutura do Card de Imagem
@@ -98,3 +98,6 @@ Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a image
     - Avaliação (Estrelas).
     - Botão de "Gostei" (Favoritar).
 - **Organização:** Usei o Auto Layout aqui para manter o botão no final do frame e as estrelas alinhadas com o título.
+
+# 🎡 Refinamento do Carrossel e Auto Layout Avançado
+1. Painel de Informações Inteligente (Overlay)
