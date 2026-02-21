@@ -123,3 +123,5 @@ Para conseguir o efeito de "espaço entre" os elementos (título de um lado e bo
 # 📑 Figma: Scroll Vertical e Elementos Fixos
 A criação de listas verticais extensas requer atenção à hierarquia de camadas para que os elementos de navegação não "sumam" durante a rolagem.
 
+### 1. Estrutura dos Cards Verticais
+- **Dimensões:** 172px x 175px (proporção próxima ao quadrado).
