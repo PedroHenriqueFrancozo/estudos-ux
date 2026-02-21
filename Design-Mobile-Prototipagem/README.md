@@ -85,3 +85,6 @@ Para que o menu deslize para os lados, é necessário configurar o "estouro" do 
 
 # 🎡 Figma: Construção de Carrossel de Cards
 O carrossel é um elemento de alto impacto visual que combina imagens, informações de destaque e controles de interação.
+
+### 1. Estrutura do Card de Imagem
+- **Dimensões do Frame Principal:** 618px x 253px.
