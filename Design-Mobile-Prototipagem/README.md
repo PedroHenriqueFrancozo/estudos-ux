@@ -94,3 +94,6 @@ O carrossel é um elemento de alto impacto visual que combina imagens, informaç
 Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a imagem:
 
 - **Background:** Cor com 60% de opacidade. Esse efeito de "vidro" (glassmorphism leve) é essencial para que o texto não "suma" na foto de fundo.
+- **Conteúdo Interno:** * Título do item.
+    - Avaliação (Estrelas).
+    - Botão de "Gostei" (Favoritar).
