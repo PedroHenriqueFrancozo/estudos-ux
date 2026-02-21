@@ -216,3 +216,9 @@
   - Uso de Opacidade (60%) em frames internos para garantir contraste.
   - Inclusão de elementos de interação: Rating (estrelas) e Favorito (botão).
   - Desafio: Gestão de hierarquia de camadas e alinhamento em elementos sobrepostos.
+
+- **21/02/2026**: Refinamento de Componentes e Auto Layout Dinâmico.
+  - Correção de opacidade: Aplicação de transparência no Fill vs. Layer.
+  - Uso de "Hug Contents" para painéis de informações responsivos.
+  - Técnica de Aninhamento (Nested Auto Layout) para alinhamento de extremidades.
+  - Implementação de Scroll Horizontal em carrosséis de grande formato (618px).
