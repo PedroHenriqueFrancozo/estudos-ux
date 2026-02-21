@@ -105,3 +105,4 @@ Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a image
 A grande evolução aqui foi tornar o painel dinâmico em vez de estático.
 
 - **Redimensionamento:** Uso do "Hug Contents" (Envolver conteúdo). Isso faz com que, se o título do item for maior ou tiver mais estrelas, o fundo (background) cresça automaticamente para acomodar tudo.
+- **Contraste de Cor:** Para evitar que o texto fique transparente, a opacidade deve ser aplicada apenas no Fill (Preenchimento) do frame e não na Layer (Camada) global.
