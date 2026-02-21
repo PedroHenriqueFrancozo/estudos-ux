@@ -91,3 +91,4 @@ O carrossel é um elemento de alto impacto visual que combina imagens, informaç
 - **Técnica de Fundo:** Usei a imagem ocupando a área total.
 
 ### 2. O Painel de Informações (Overlay)
+Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a imagem:
