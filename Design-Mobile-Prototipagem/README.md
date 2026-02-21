@@ -100,4 +100,8 @@ Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a image
 - **Organização:** Usei o Auto Layout aqui para manter o botão no final do frame e as estrelas alinhadas com o título.
 
 # 🎡 Refinamento do Carrossel e Auto Layout Avançado
-1. Painel de Informações Inteligente (Overlay)
+
+### 1. Painel de Informações Inteligente (Overlay)
+A grande evolução aqui foi tornar o painel dinâmico em vez de estático.
+
+- **Redimensionamento:** Uso do "Hug Contents" (Envolver conteúdo). Isso faz com que, se o título do item for maior ou tiver mais estrelas, o fundo (background) cresça automaticamente para acomodar tudo.
