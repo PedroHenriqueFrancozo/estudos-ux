@@ -137,3 +137,5 @@ A criação de listas verticais extensas requer atenção à hierarquia de camad
 Para que a experiência mobile seja realista, foram aplicadas as seguintes configurações na aba Prototype:
 
 - **Status Bar (Topo):** Configurada como "Fixed" (Stay in place). Ela fica sempre no topo, independentemente da rolagem.
+- **Navigation Bar (Base): * Fixamento:** Mantida fixa no rodapé.
+- **Constraints:** Orientação restringida à base (Bottom) para que, mesmo que o tamanho do Frame (tela) aumente para baixo, a barra acompanhe automaticamente o final da área visível.
