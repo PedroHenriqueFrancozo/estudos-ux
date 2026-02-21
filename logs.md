@@ -222,3 +222,9 @@
   - Uso de "Hug Contents" para painéis de informações responsivos.
   - Técnica de Aninhamento (Nested Auto Layout) para alinhamento de extremidades.
   - Implementação de Scroll Horizontal em carrosséis de grande formato (618px).
+
+- **21/02/2026**: Prototipagem Avançada e Componentização.
+  - Criação de lista vertical com Cards Componentizados (172x175px).
+  - Implementação de Elementos Fixos (Status Bar e Nav Bar).
+  - Uso de Constraints (Bottom) para manter a integridade da barra de navegação.
+  - Configuração de Scroll Vertical com ajuste de altura do Frame pai.
