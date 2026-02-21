@@ -97,3 +97,4 @@ Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a image
 - **Conteúdo Interno:** * Título do item.
     - Avaliação (Estrelas).
     - Botão de "Gostei" (Favoritar).
+- **Organização:** Usei o Auto Layout aqui para manter o botão no final do frame e as estrelas alinhadas com o título.
