@@ -109,4 +109,7 @@ A grande evolução aqui foi tornar o painel dinâmico em vez de estático.
 - **Blur (Opcional):** Para um efeito real de vidro, pode-se adicionar o efeito Background Blur nas configurações de Effects.
 
 ### 2. Hierarquia de Auto Layout (O segredo do Botão de Like)
-Para conseguir o efeito de "espaço entre" os elementos (título de um lado e botão do outro), apliquei a técnica de Aninhamento:
+Para conseguir o efeito de "espaço entre" os elementos (título de um lado e botão do outro), apliquei a técnica de **Aninhamento**:
+
+- **Grupo A:** Auto Layout entre [Texto do Título + Estrelas de Avaliação].
+- **Grupo B:** O Botão de Like.
