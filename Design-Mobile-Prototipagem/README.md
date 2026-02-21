@@ -88,3 +88,4 @@ O carrossel é um elemento de alto impacto visual que combina imagens, informaç
 
 ### 1. Estrutura do Card de Imagem
 - **Dimensões do Frame Principal:** 618px x 253px.
+- **Técnica de Fundo:** Uso de imagem ocupando a área total.
