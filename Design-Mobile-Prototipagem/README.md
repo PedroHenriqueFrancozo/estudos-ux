@@ -119,3 +119,7 @@ Para conseguir o efeito de "espaço entre" os elementos (título de um lado e bo
 ### 3. Prototipagem de Fluxo
 - **Overflow Scrolling:** Configurado como Horizontal na aba Prototype.
 - **Clip Content:** Ativado no frame pai (do tamanho da tela do celular) para esconder o restante do carrossel de 618px e permitir o deslize.
+
+# 📑 Figma: Scroll Vertical e Elementos Fixos
+A criação de listas verticais extensas requer atenção à hierarquia de camadas para que os elementos de navegação não "sumam" durante a rolagem.
+
