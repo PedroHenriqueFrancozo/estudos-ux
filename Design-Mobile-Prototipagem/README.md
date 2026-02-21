@@ -83,3 +83,4 @@ Para que o menu deslize para os lados, é necessário configurar o "estouro" do 
 - **O Componente Master** contém toda a lista esticada com todos os itens.
 - A **Instância** dentro da tela do celular é que tem o tamanho reduzido e o scroll ativado. Isso mantém o design organizado e fácil de editar.
 
+# 🎡 Figma: Construção de Carrossel de Cards
