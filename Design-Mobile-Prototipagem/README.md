@@ -92,3 +92,5 @@ O carrossel é um elemento de alto impacto visual que combina imagens, informaç
 
 ### 2. O Painel de Informações (Overlay)
 Criei um frame interno (335px x 90px) para garantir a legibilidade sobre a imagem:
+
+- **Background:** Cor com 60% de opacidade. Esse efeito de "vidro" (glassmorphism leve) é essencial para que o texto não "suma" na foto de fundo.
