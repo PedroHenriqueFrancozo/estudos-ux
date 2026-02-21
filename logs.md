@@ -210,3 +210,9 @@
   - Uso de cores estratégicas para estados de Seleção (#2563EB).
   - Configuração de Overflow Scrolling no Prototipagem.
   - Ajuste técnico de Clip Content e margens de segurança de clique.
+
+- **20/02/2026**: Construção de Carrossel de Destaque.
+  - Estrutura de Card (618x253px) com sobreposição de informações.
+  - Uso de Opacidade (60%) em frames internos para garantir contraste.
+  - Inclusão de elementos de interação: Rating (estrelas) e Favorito (botão).
+  - Desafio: Gestão de hierarquia de camadas e alinhamento em elementos sobrepostos.
