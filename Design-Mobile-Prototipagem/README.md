@@ -125,3 +125,5 @@ A criação de listas verticais extensas requer atenção à hierarquia de camad
 
 ### 1. Estrutura dos Cards Verticais
 - **Dimensões:** 172px x 175px (proporção próxima ao quadrado).
+- **Direcionamento:** Fluxo configurado para expansão vertical (Y-axis).
+- **Componentização:** O card foi transformado em **Componente Master**, permitindo escalabilidade e manutenção rápida do design.
