@@ -130,3 +130,5 @@ A criação de listas verticais extensas requer atenção à hierarquia de camad
 
 ### 2. Painel de Informações (Overlay)
 - **Dimensões:** 172px x 70px.
+- **Técnica:** Fundo com 60% de opacidade no Fill para garantir contraste sem perder a visibilidade da imagem de fundo.
+- **Elementos:** Título, Rating (estrelas) e Botão de Favorito.
