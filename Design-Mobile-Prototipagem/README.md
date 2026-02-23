@@ -154,3 +154,6 @@ Um componente de interação direta para o usuário:
 
 - **Estilo:** Botões (+ / -) na cor #2563EB sobre fundo branco.
 - **Elementos de Apoio:** Ícone de relógio e contador de dias restantes para a viagem, reforçando o senso de urgência (UX Writing/Psicologia do Design).
+
+### 3. Footer de Conversão (Barra de Compra)
+- **Composição:** O valor do pacote e o botão "Comprar" foram unidos em um **Auto Layout**.
