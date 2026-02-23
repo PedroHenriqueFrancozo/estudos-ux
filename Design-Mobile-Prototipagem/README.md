@@ -158,3 +158,7 @@ Um componente de interação direta para o usuário:
 ### 3. Footer de Conversão (Barra de Compra)
 - **Composição:** O valor do pacote e o botão "Comprar" foram unidos em um **Auto Layout**.
 - **Alinhamento:** Configurado com alinhamento lateral, garantindo que o preço e o botão de ação principal fiquem sempre bem posicionados, independentemente da largura do dispositivo.
+
+### 4. Otimização de Frame (O "Pulo do Gato")
+
+1. **Criação Manual:** Definição visual dos elementos.
