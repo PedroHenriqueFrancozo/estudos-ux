@@ -153,3 +153,4 @@ A última tela foca em informações críticas de conversão (preço, datas e a�
 Um componente de interação direta para o usuário:
 
 - **Estilo:** Botões (+ / -) na cor #2563EB sobre fundo branco.
+- **Elementos de Apoio:** Ícone de relógio e contador de dias restantes para a viagem, reforçando o senso de urgência (UX Writing/Psicologia do Design).
