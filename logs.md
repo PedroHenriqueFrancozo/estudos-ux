@@ -228,3 +228,9 @@
   - Implementação de Elementos Fixos (Status Bar e Nav Bar).
   - Uso de Constraints (Bottom) para manter a integridade da barra de navegação.
   - Configuração de Scroll Vertical com ajuste de altura do Frame pai.
+
+- **22/02/2026**: Tela de Detalhes e Refatoração de Layout.
+  - Construção de seletores de quantidade e componentes de data.
+  - Implementação de Footer de compra com Auto Layout.
+  - Refatoração de frames estáticos para Frames Inteligentes (Resilientes).
+  - Prototipagem final para imersão e teste de fluxo completo.
