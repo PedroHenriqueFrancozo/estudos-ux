@@ -18,3 +18,7 @@ Composta por uma escala de 10 tons (do Darker ao Light), permitindo flexibilidad
 
 - **Main:** #059669 (Normal).
 - **Variações:** Inclui tons para estados de hover e active (ex: #03A33F, #047854).
+
+### ⚪ Neutras e Texto (Neutral & Text)
+
+- **Neutrals:** Tons para superfícies e bordas, variando de #0F172A (Dark) até o branco puro #FFFFFF.
