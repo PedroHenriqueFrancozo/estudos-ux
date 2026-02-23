@@ -147,3 +147,4 @@ A última tela foca em informações críticas de conversão (preço, datas e a�
 
 ### 1. Estrutura de Cabeçalho Dinâmico
 - **Organização:** Título, Localização e Avaliação agrupados em Auto Layout.
+- **Vantagem:** Facilidade total para adicionar ou remover informações (como selos de verificação) sem precisar mover os outros elementos manualmente.
