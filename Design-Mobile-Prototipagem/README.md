@@ -141,3 +141,6 @@ Para que a experiência mobile seja realista, foram aplicadas as seguintes confi
     - **Constraints:** Orientação restringida à base (Bottom) para que, mesmo que o tamanho do Frame (tela) aumente para baixo, a barra acompanhe automaticamente o final da área visível.
 - **Vertical Scroll:** * O Frame principal foi alongado para conter todos os cards.
     - A área de visualização (Viewport) permanece o tamanho do celular, permitindo o efeito de rolagem do conteúdo interno.
+
+# 📲 Figma: Tela de Detalhes e Layout Inteligente
+A última tela foca em informações críticas de conversão (preço, datas e ação de compra).
