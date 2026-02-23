@@ -12,3 +12,6 @@ A escolha da família tipográfica Roboto foca em uma interface moderna e funcio
 
 ### 2. Paleta de Cores (Colors)
 O sistema de cores foi dividido em categorias funcionais para garantir consistência em toda a aplicação.
+
+### 🟢 Cor Primária (Primary)
+Composta por uma escala de 10 tons (do Darker ao Light), permitindo flexibilidade para estados de botões, fundos e destaques.
