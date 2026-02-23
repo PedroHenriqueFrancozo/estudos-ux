@@ -22,3 +22,5 @@ Composta por uma escala de 10 tons (do Darker ao Light), permitindo flexibilidad
 ### ⚪ Neutras e Texto (Neutral & Text)
 
 - **Neutrals:** Tons para superfícies e bordas, variando de #0F172A (Dark) até o branco puro #FFFFFF.
+- **Text Colors:** Escala de cinzas ( #1A1A1A a #9E9EA6 ) para garantir contraste e acessibilidade na leitura.
+
