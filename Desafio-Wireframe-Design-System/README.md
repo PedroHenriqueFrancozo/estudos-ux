@@ -26,3 +26,8 @@ Composta por uma escala de 10 tons (do Darker ao Light), permitindo flexibilidad
 
 # ⚠️ Cores Semânticas (Semantic/Other Colors)
 Utilizadas para fornecer feedback visual imediato ao usuário:
+
+- **Danger/Error:** #E60F0F (Vermelho).
+- **Success:** #1DC560 (Verde).
+- **Warning/Alert:** #FFB800 (Amarelo).
+- **Info:** #0F9AE8 (Azul).
