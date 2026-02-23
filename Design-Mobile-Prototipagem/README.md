@@ -163,3 +163,4 @@ Um componente de interação direta para o usuário:
 
 1. **Criação Manual:** Definição visual dos elementos.
 2. **Conversão para Smart Frame:** Duplicação do conteúdo -> Remoção do fundo estático -> Aplicação de Auto Layout global -> Reedição do preenchimento.
+3. **Resultado:** O frame tornou-se inteligente. Agora, se adicionar mais texto, o fundo cresce sozinho e os espaçamentos (paddings) se mantêm perfeitos.
