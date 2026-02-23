@@ -10,7 +10,7 @@ A escolha da família tipográfica Roboto foca em uma interface moderna e funcio
     - **Subtitles:** Variações de 24px e 20px (Regular).
     - **Body:** Tamanhos de 18px e 16px, otimizados para leitura prolongada em diferentes densidades de tela.
 
-### 2. Paleta de Cores (Colors)
+# 2. Paleta de Cores (Colors)
 O sistema de cores foi dividido em categorias funcionais para garantir consistência em toda a aplicação.
 
 ### 🟢 Cor Primária (Primary)
@@ -24,3 +24,5 @@ Composta por uma escala de 10 tons (do Darker ao Light), permitindo flexibilidad
 - **Neutrals:** Tons para superfícies e bordas, variando de #0F172A (Dark) até o branco puro #FFFFFF.
 - **Text Colors:** Escala de cinzas ( #1A1A1A a #9E9EA6 ) para garantir contraste e acessibilidade na leitura.
 
+# ⚠️ Cores Semânticas (Semantic/Other Colors)
+Utilizadas para fornecer feedback visual imediato ao usuário:
