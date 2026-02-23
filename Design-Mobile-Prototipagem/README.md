@@ -144,3 +144,6 @@ Para que a experiência mobile seja realista, foram aplicadas as seguintes confi
 
 # 📲 Figma: Tela de Detalhes e Layout Inteligente
 A última tela foca em informações críticas de conversão (preço, datas e ação de compra).
+
+### 1. Estrutura de Cabeçalho Dinâmico
+- **Organização:** Título, Localização e Avaliação agrupados em Auto Layout.
