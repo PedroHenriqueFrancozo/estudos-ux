@@ -151,3 +151,5 @@ A última tela foca em informações críticas de conversão (preço, datas e a�
 
 ### 2. Seletor de Datas e Contador
 Um componente de interação direta para o usuário:
+
+- **Estilo:** Botões (+ / -) na cor #2563EB sobre fundo branco.
