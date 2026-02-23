@@ -162,3 +162,4 @@ Um componente de interação direta para o usuário:
 ### 4. Otimização de Frame (O "Pulo do Gato")
 
 1. **Criação Manual:** Definição visual dos elementos.
+2. **Conversão para Smart Frame:** Duplicação do conteúdo -> Remoção do fundo estático -> Aplicação de Auto Layout global -> Reedição do preenchimento.
