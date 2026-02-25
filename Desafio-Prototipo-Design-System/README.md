@@ -45,3 +45,5 @@ O layout foi desenvolvido seguindo a metodologia de componentes reutilizáveis e
 
 ### 2. Seção Hero (Header)
 O primeiro contato do usuário com o site foi desenhado para impacto e clareza:
+
+- **Background:** #E6F5F0 (Verde menta muito claro), gerando um contraste suave com a Navbar.
