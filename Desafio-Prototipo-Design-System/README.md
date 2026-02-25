@@ -51,3 +51,6 @@ O primeiro contato do usuário com o site foi desenhado para impacto e clareza:
     - **Hierarquia de Texto:** Título principal em 48px (Cor #0F172A - Azul quase preto) para máxima leitura e Subtítulo em 24px.
 - **CTA Principal:** Botão "Saiba mais" (152px x 52px) em fundo branco, destacando-se sobre o fundo colorido da seção.
 
+### 3. Seção de Serviços
+Focada em apresentar os benefícios de forma organizada através de **Cards**:
+
