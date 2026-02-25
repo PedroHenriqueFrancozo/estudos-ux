@@ -36,3 +36,7 @@ Utilizadas para fornecer feedback visual imediato ao usuário:
 
 # 🏗️ Estrutura do Protótipo de Alta Fidelidade
 O layout foi desenvolvido seguindo a metodologia de componentes reutilizáveis e layouts adaptáveis.
+
+### 1. Navegação Principal (Navbar)
+
+- **Estrutura:** Logo, Links de navegação (Home, Sobre nós, Contato) e botões de CTA (Criar conta, Entrar).
