@@ -55,3 +55,6 @@ O primeiro contato do usuário com o site foi desenhado para impacto e clareza:
 Focada em apresentar os benefícios de forma organizada através de **Cards**:
 
 - **Títulos de Seção:** Mantendo o padrão de 48px para o título e 24px para o subtítulo (Cor #2E2E2E para o texto secundário).
+- **Cards de Serviço:** * Criados como Componente Master com Auto Layout.
+    - **Hierarquia Interna:** Título do card (32px), área de imagem/ícone e descrição (18px Regular).
+    - **Vantagem:** A alteração em um card (como o arredondamento das bordas ou cor do texto) é replicada instantaneamente em todos os outros.
