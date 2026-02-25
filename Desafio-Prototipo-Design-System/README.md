@@ -41,4 +41,5 @@ O layout foi desenvolvido seguindo a metodologia de componentes reutilizáveis e
 
 - **Estrutura:** Logo, Links de navegação (Home, Sobre nós, Contato) e botões de CTA (Criar conta, Entrar).
 - **Técnica:** Componente Master com Auto Layout para garantir o espaçamento fixo entre os links e botões.
-- **Visual:** Fundo verde #059669 com 60% de opacidade, permitindo uma leve transparência com o conteúdo que passa por baixo (efeito moderno).
+- **Visual:** Fundo verde #059669 com 60% de opacidade.
+
