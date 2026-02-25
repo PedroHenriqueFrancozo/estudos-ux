@@ -43,3 +43,5 @@ O layout foi desenvolvido seguindo a metodologia de componentes reutilizáveis e
 - **Técnica:** Componente Master com Auto Layout para garantir o espaçamento fixo entre os links e botões.
 - **Visual:** Fundo verde #059669 com 60% de opacidade.
 
+### 2. Seção Hero (Header)
+O primeiro contato do usuário com o site foi desenhado para impacto e clareza:
