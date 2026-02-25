@@ -35,4 +35,4 @@ Utilizadas para fornecer feedback visual imediato ao usuário:
 ![Desing System](/assets/DesingSystemProjeto.png)
 
 # 🏗️ Estrutura do Protótipo de Alta Fidelidade
-
+O layout foi desenvolvido seguindo a metodologia de componentes reutilizáveis e layouts adaptáveis.
