@@ -234,3 +234,9 @@
   - Implementação de Footer de compra com Auto Layout.
   - Refatoração de frames estáticos para Frames Inteligentes (Resilientes).
   - Prototipagem final para imersão e teste de fluxo completo.
+
+- **24/02/2026**: Desenvolvimento de Landing Page e Componentização.
+  - Criação de Navbar com Auto Layout e estados de transparência (60%).
+  - Construção de Seção Hero com foco em hierarquia tipográfica (48px/24px).
+  - Implementação de Seção de Serviços baseada em Cards Componentizados.
+  - Uso estratégico de cores de sistema (#059669 e #E6F5F0) para identidade visual.
