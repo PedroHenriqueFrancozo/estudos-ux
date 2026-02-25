@@ -54,3 +54,4 @@ O primeiro contato do usuário com o site foi desenhado para impacto e clareza:
 ### 3. Seção de Serviços
 Focada em apresentar os benefícios de forma organizada através de **Cards**:
 
+- **Títulos de Seção:** Mantendo o padrão de 48px para o título e 24px para o subtítulo (Cor #2E2E2E para o texto secundário).
