@@ -33,3 +33,6 @@ Utilizadas para fornecer feedback visual imediato ao usuário:
 - **Info:** #0F9AE8 (Azul).
 
 ![Desing System](/assets/DesingSystemProjeto.png)
+
+# 🏗️ Estrutura do Protótipo de Alta Fidelidade
+
