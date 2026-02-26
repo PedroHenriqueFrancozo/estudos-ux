@@ -72,3 +72,5 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 ### 2. Composição e Design Visual
 
 - **Conectividade:** Utilização de uma linha curva entre os frames para guiar o olhar do usuário e simbolizar o fluxo entre o agendamento e a visita ao local.
+- **Ícones:** Uso de ícones de calendário (agendamento) e alfinete (local) inseridos em formas arredondadas (shapes) com tons suaves de azul/cinza para manter o equilíbrio visual.
+- **Botões (CTAs):** * Ambos os botões possuem fundo branco (#FFFFFF) e altura de 44px.
