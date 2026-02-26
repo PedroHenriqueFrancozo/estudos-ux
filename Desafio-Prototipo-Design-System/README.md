@@ -60,4 +60,4 @@ Focada em apresentar os benefícios de forma organizada através de **Cards**:
     - **Vantagem:** A alteração em um card (como o arredondamento das bordas ou cor do texto) é replicada instantaneamente em todos os outros.
 
 ### 📍 Seção: Venha nos Conhecer
-
+Esta seção foi desenhada para facilitar a conversão através de duas ações principais: agendamento e localização.
