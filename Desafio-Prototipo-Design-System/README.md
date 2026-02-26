@@ -61,3 +61,6 @@ Focada em apresentar os benefícios de forma organizada através de **Cards**:
 
 ### 📍 Seção: Venha nos Conhecer
 Esta seção foi desenhada para facilitar a conversão através de duas ações principais: agendamento e localização.
+
+### 1. Elementos de Texto e Hierarquia
+Título Principal: "Venha nos Conhecer" com 40px na cor #0F172A.
