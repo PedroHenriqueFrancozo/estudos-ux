@@ -74,3 +74,4 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 - **Conectividade:** Utilização de uma linha curva entre os frames para guiar o olhar do usuário e simbolizar o fluxo entre o agendamento e a visita ao local.
 - **Ícones:** Uso de ícones de calendário (agendamento) e alfinete (local) inseridos em formas arredondadas (shapes) com tons suaves de azul/cinza para manter o equilíbrio visual.
 - **Botões (CTAs):** * Ambos os botões possuem fundo branco (#FFFFFF) e altura de 44px.
+    - O botão de agendamento tem largura de **167px**, enquanto o do Google Maps tem **224px**, adaptando-se ao tamanho do texto interno.
