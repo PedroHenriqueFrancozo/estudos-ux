@@ -65,3 +65,4 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 ### 1. Elementos de Texto e Hierarquia
 - **Título Principal:** "Venha nos Conhecer" com 40px na cor #0F172A.
 - **Subtítulo de Apoio:** 20px na cor #1A202C, reforçando a clareza da mensagem.
+- **Subtítulos dos Cards:** 24px na cor #0F172A para destacar os tópicos "Agendamento" e "Local".
