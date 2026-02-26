@@ -63,7 +63,12 @@ Focada em apresentar os benefícios de forma organizada através de **Cards**:
 Esta seção foi desenhada para facilitar a conversão através de duas ações principais: agendamento e localização.
 
 ### 1. Elementos de Texto e Hierarquia
+
 - **Título Principal:** "Venha nos Conhecer" com 40px na cor #0F172A.
 - **Subtítulo de Apoio:** 20px na cor #1A202C, reforçando a clareza da mensagem.
 - **Subtítulos dos Cards:** 24px na cor #0F172A para destacar os tópicos "Agendamento" e "Local".
 - **Corpo de Texto:** Tamanho 14px na cor #1A202C, garantindo que informações secundárias não briguem com os destaques.
+
+### 2. Composição e Design Visual
+
+- **Conectividade:** Utilização de uma linha curva entre os frames para guiar o olhar do usuário e simbolizar o fluxo entre o agendamento e a visita ao local.
