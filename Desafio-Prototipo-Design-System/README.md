@@ -76,3 +76,6 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 - **Botões (CTAs):** * Ambos os botões possuem fundo branco (#FFFFFF) e altura de 44px.
     - O botão de agendamento tem largura de **167px**, enquanto o do Google Maps tem **224px**, adaptando-se ao tamanho do texto interno.
 - **Selo de Confiança:** Adição de um ícone de verificado com a cor de sucesso do sistema para transmitir segurança ao usuário.
+
+### 3. Aplicação do Design System
+- **Tipografia:** Uso consistente da família Roboto, conforme definido no guia de estilos.
