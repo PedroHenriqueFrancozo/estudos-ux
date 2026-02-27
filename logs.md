@@ -246,3 +246,9 @@
   - Uso de caminhos vetoriais para criar conexões visuais entre componentes.
   - Aplicação prática de elementos de confiança (selo de verificado).
   - Padronização de botões secundários com fundos neutros.
+
+- **26/02/2026**: Finalização de Layout (Rodapé).
+  - Organização de arquitetura de informação em colunas (Branding, Sobre, Comunidade).
+  - Implementação de links institucionais e sociais.
+  - Estruturação de rodapé legal (Copyright e Termos de Uso).
+  - Uso de Auto Layout para garantir o alinhamento perfeito entre as colunas.
