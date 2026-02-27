@@ -87,4 +87,6 @@ O rodapé foi projetado para oferecer uma visão sistêmica do site, agrupando l
 ### 1. Estrutura de Navegação em Colunas
 Utilizei uma organização em blocos verticais para facilitar o escaneamento visual:
 
-- **Branding:** Espaço dedicado ao Logo da empresa, acompanhado de um texto descritivo de 16px (#2E2E2E) e ícones sociais para reforço de marca.
+- **Branding:** Espaço dedicado ao Logo da empresa, acompanhado de um texto descritivo de **16px** (#2E2E2E) e ícones sociais para reforço de marca.
+- Colunas de Links (Sobre e Comunidade):
+    - Títulos: **20px** na cor #0F172A (Neutro Dark) para garantir destaque.
