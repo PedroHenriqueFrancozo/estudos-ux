@@ -84,3 +84,5 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 # ⚓ Seção: Footer (Rodapé)
 O rodapé foi projetado para oferecer uma visão sistêmica do site, agrupando links por categorias e fornecendo informações legais obrigatórias.
 
+### 1. Estrutura de Navegação em Colunas
+Utilizei uma organização em blocos verticais para facilitar o escaneamento visual:
