@@ -82,5 +82,5 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 - **Cores Neutras:** Aplicação das cores #0F172A (Neutro Dark) e #FFFFFF (Neutro Light) para garantir alto contraste e legibilidade.
 
 # ⚓ Seção: Footer (Rodapé)
-
+O rodapé foi projetado para oferecer uma visão sistêmica do site, agrupando links por categorias e fornecendo informações legais obrigatórias.
 
