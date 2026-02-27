@@ -88,7 +88,10 @@ O rodapé foi projetado para oferecer uma visão sistêmica do site, agrupando l
 Utilizei uma organização em blocos verticais para facilitar o escaneamento visual:
 
 - **Branding:** Espaço dedicado ao Logo da empresa, acompanhado de um texto descritivo de **16px** (#2E2E2E) e ícones sociais para reforço de marca.
-- Colunas de Links (Sobre e Comunidade):
+- **Colunas de Links** (Sobre e Comunidade):
     - **Títulos:** **20px** na cor #0F172A (Neutro Dark) para garantir destaque.
     - **Links:** Estruturados para direcionar o usuário a páginas institucionais (Parcerias, Blog, Convide um amigo).
 - **Social:** Coluna dedicada aos canais oficiais (Instagram, Facebook e LinkedIn) com links diretos.
+
+### 2. Hierarquia Tipográfica e Cores
+- **Títulos das Colunas:** 20px Bold/Medium para criar uma separação clara entre as seções.
