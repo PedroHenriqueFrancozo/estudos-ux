@@ -91,3 +91,4 @@ Utilizei uma organização em blocos verticais para facilitar o escaneamento vis
 - Colunas de Links (Sobre e Comunidade):
     - **Títulos:** **20px** na cor #0F172A (Neutro Dark) para garantir destaque.
     - **Links:** Estruturados para direcionar o usuário a páginas institucionais (Parcerias, Blog, Convide um amigo).
+- **Social:** Coluna dedicada aos canais oficiais (Instagram, Facebook e LinkedIn) com links diretos.
