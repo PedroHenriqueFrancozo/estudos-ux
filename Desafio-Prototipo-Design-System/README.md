@@ -80,3 +80,7 @@ Esta seção foi desenhada para facilitar a conversão através de duas ações 
 ### 3. Aplicação do Design System
 - **Tipografia:** Uso consistente da família Roboto, conforme definido no guia de estilos.
 - **Cores Neutras:** Aplicação das cores #0F172A (Neutro Dark) e #FFFFFF (Neutro Light) para garantir alto contraste e legibilidade.
+
+# ⚓ Seção: Footer (Rodapé)
+
+
