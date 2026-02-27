@@ -97,3 +97,6 @@ Utilizei uma organização em blocos verticais para facilitar o escaneamento vis
 - **Títulos das Colunas:** 20px Bold/Medium para criar uma separação clara entre as seções.
 - **Corpo do Texto:** 16px Regular, garantindo que o rodapé não compita visualmente com o conteúdo principal da página, mas permaneça legível.
 - **Paleta:** Uso das cores #0F172A para o texto principal e títulos, mantendo a consistência com o restante do projeto.
+
+### 3. Rodapé Legal (Bottom Bar)
+- **Copyright:** Texto de **16px** informando a propriedade intelectual.
