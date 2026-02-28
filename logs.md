@@ -258,3 +258,9 @@
   - Criação de Inputs com ícones e estados de placeholder (#CACACA).
   - Definição de CTAs com Border Radius (8px) e tipografia em destaque.
   - Implementação de fluxos secundários (Recuperação de senha e Cadastro).
+
+- **28/02/2026**: Design de Fluxo de Cadastro.
+  - Estruturação de formulário complexo (5 inputs) com Auto Layout.
+  - Implementação de hierarquia visual e links de acessibilidade (Underline).
+  - Uso de Componentes Master para escala e manutenção do sistema.
+  - Reforço de UX através de links de alternância entre Login/Cadastro.
