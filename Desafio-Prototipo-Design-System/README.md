@@ -104,3 +104,6 @@ Utilizei uma organização em blocos verticais para facilitar o escaneamento vis
 
 # 🔐 Seção: Tela de Login e Autenticação
 O design da tela de login foi estruturado para ser limpo e funcional, minimizando distrações para o usuário no momento da autenticação.
+
+### 1. Composição Visual (Split Screen)
+- **Layout:** Utilização de uma área de destaque de **704px x 924px** dedicada a uma imagem aspiracional ou ilustrativa, equilibrando o peso visual com o formulário de entrada.
