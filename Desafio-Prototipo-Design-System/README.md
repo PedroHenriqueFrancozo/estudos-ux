@@ -132,3 +132,4 @@ A tela de cadastro foi projetada para capturar dados de forma organizada, utiliz
 - **Hierarquia de Texto:** Título em **24px Bold** e Subtítulo em **20px Regular**, fornecendo as instruções iniciais de forma clara.
 
 ### 2. Campos de Entrada (Inputs)
+O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e Confirmação), todos padronizados:
