@@ -117,3 +117,6 @@ Os campos de entrada foram desenhados com foco em clareza e affordance:
     - Identificadores: Uso de ícones (E-mail e Trava) para suporte visual.
     - Placeholder: Texto em **18px** na cor #CACACA, indicando claramente o que deve ser preenchido.
 - **Botão Entrar (CTA):** * Dimensões: 200px x 39px com **Border Radius de 8px.**
+
+### 3. Links de Suporte (Acessibilidade e Fluxo)
+Para garantir que o usuário não fique "preso", foram adicionados links de recuperação e cadastro:
