@@ -125,3 +125,4 @@ Para garantir que o usuário não fique "preso", foram adicionados links de recu
 - **Estilização:** **12px Regular**, posicionados estrategicamente abaixo do botão principal para não competir visualmente, mas estarem disponíveis quando necessários.
 
 # 📝 Seção: Tela de Cadastro (Sign Up)
+A tela de cadastro foi projetada para capturar dados de forma organizada, utilizando componentes resilientes para garantir uma experiência de preenchimento fluida.
