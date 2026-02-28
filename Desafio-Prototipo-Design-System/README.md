@@ -129,4 +129,6 @@ A tela de cadastro foi projetada para capturar dados de forma organizada, utiliz
 
 ### 1. Arquitetura do Formulário Inteligente
 - **Container Principal:** Um frame de **396px x 676px** utilizando **Auto Layout** e configurado como **Componente Master**. Isso garante que qualquer ajuste de espaçamento ou estilo de input seja replicado instantaneamente.
-# **Hierarquia de Texto:** Título em **24px Bold** e Subtítulo em **20px Regular**, fornecendo as instruções iniciais de forma clara.
+- **Hierarquia de Texto:** Título em **24px Bold** e Subtítulo em **20px Regular**, fornecendo as instruções iniciais de forma clara.
+
+### 2. Campos de Entrada (Inputs)
