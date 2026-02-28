@@ -140,3 +140,5 @@ O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e 
 
 ### 3. Ações e Conversão (CTA)
 - **Botão Principal:** "Criar minha conta" com **270px x 39px**, utilizando a cor **Verde** da marca para atrair o clique e reforçar a ação positiva.
+- **Legal e Conformidade:** Abaixo do botão, foi inserido o texto de "Políticas de Privacidade" e "Termos de Uso".
+    - **Destaque:** Links na cor verde com **underline**, seguindo padrões de acessibilidade para elementos clicáveis.
