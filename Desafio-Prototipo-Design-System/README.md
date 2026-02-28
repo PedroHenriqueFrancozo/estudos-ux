@@ -137,3 +137,6 @@ O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e 
 - **Dimensões:** 300px x 44px.
 - **Identidade Visual:** Ícones representativos para cada categoria e texto de placeholder na cor #CACACA.
 - **Segurança:** Inclusão do campo de "Confirmação de Senha" para reduzir erros de digitação no primeiro acesso.
+
+### 3. Ações e Conversão (CTA)
+- **Botão Principal:** "Criar minha conta" com **270px x 39px**, utilizando a cor **Verde** da marca para atrair o clique e reforçar a ação positiva.
