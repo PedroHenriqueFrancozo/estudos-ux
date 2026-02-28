@@ -126,3 +126,6 @@ Para garantir que o usuário não fique "preso", foram adicionados links de recu
 
 # 📝 Seção: Tela de Cadastro (Sign Up)
 A tela de cadastro foi projetada para capturar dados de forma organizada, utilizando componentes resilientes para garantir uma experiência de preenchimento fluida.
+
+### 1. Arquitetura do Formulário Inteligente
+- **Container Principal:** Um frame de **396px x 676px** utilizando **Auto Layout** e configurado como **Componente Master**. Isso garante que qualquer ajuste de espaçamento ou estilo de input seja replicado instantaneamente.
