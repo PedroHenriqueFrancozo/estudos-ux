@@ -108,3 +108,6 @@ O design da tela de login foi estruturado para ser limpo e funcional, minimizand
 ### 1. Composição Visual (Split Screen)
 - **Layout:** Utilização de uma área de destaque de **704px x 924px** dedicada a uma imagem aspiracional ou ilustrativa, equilibrando o peso visual com o formulário de entrada.
 - **Navbar:** Integração da barra de navegação superior para permitir que o usuário retorne à Home ou acesse outras áreas antes de logar.
+
+### 2. Formulário de Acesso (Input Fields)
+Os campos de entrada foram desenhados com foco em clareza e affordance:
