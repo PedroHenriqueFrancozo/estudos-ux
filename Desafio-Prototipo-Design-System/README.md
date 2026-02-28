@@ -135,3 +135,4 @@ A tela de cadastro foi projetada para capturar dados de forma organizada, utiliz
 O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e Confirmação), todos padronizados:
 
 - **Dimensões:** 300px x 44px.
+- **Identidade Visual:** Ícones representativos para cada categoria e texto de placeholder na cor #CACACA.
