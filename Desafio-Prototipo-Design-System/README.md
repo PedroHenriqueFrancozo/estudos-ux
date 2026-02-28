@@ -142,3 +142,6 @@ O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e 
 - **Botão Principal:** "Criar minha conta" com **270px x 39px**, utilizando a cor **Verde** da marca para atrair o clique e reforçar a ação positiva.
 - **Legal e Conformidade:** Abaixo do botão, foi inserido o texto de "Políticas de Privacidade" e "Termos de Uso".
     - **Destaque:** Links na cor verde com **underline**, seguindo padrões de acessibilidade para elementos clicáveis.
+
+### 4. Fluxo de Alternância
+- **Link de Login:** Texto de suporte para usuários que já possuem conta, facilitando a transição para a tela de Login através de um link destacado em verde, melhorando a navegabilidade.
