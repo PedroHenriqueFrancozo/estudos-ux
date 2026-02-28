@@ -116,3 +116,4 @@ Os campos de entrada foram desenhados com foco em clareza e affordance:
 - **Campos (E-mail e Senha):** Dimensões: 300px x 44px.
     - Identificadores: Uso de ícones (E-mail e Trava) para suporte visual.
     - Placeholder: Texto em **18px** na cor #CACACA, indicando claramente o que deve ser preenchido.
+- **Botão Entrar (CTA):** * Dimensões: 200px x 39px com **Border Radius de 8px.**
