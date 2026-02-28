@@ -114,3 +114,5 @@ Os campos de entrada foram desenhados com foco em clareza e affordance:
 
 - **Título:** "Faça seu login" em 24px Bold, estabelecendo a hierarquia imediata.
 - **Campos (E-mail e Senha):** Dimensões: 300px x 44px.
+    - Identificadores: Uso de ícones (E-mail e Trava) para suporte visual.
+    - Placeholder: Texto em **18px** na cor #CACACA, indicando claramente o que deve ser preenchido.
