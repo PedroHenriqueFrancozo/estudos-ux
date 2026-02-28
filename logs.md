@@ -252,3 +252,9 @@
   - Implementação de links institucionais e sociais.
   - Estruturação de rodapé legal (Copyright e Termos de Uso).
   - Uso de Auto Layout para garantir o alinhamento perfeito entre as colunas.
+
+- **27/02/2026**: Design de Interface de Autenticação.
+  - Estruturação de Split Screen para telas de login.
+  - Criação de Inputs com ícones e estados de placeholder (#CACACA).
+  - Definição de CTAs com Border Radius (8px) e tipografia em destaque.
+  - Implementação de fluxos secundários (Recuperação de senha e Cadastro).
