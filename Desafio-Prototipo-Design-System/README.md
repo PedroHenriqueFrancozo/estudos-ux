@@ -103,4 +103,4 @@ Utilizei uma organização em blocos verticais para facilitar o escaneamento vis
 - **Informações Legais:** Links para "Política de Privacidade" e "Termos e Condições" em 20px **Regular**, posicionados estrategicamente para fácil acesso conforme as normas de conformidade digital.
 
 # 🔐 Seção: Tela de Login e Autenticação
-
+O design da tela de login foi estruturado para ser limpo e funcional, minimizando distrações para o usuário no momento da autenticação.
