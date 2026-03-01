@@ -1,3 +1,8 @@
+# 📝 Briefing do Projeto: Landing Page & Sistema de Autenticação
+
+1. **Objetivo do Projeto:** Desenvolver uma presença digital para uma empresa de serviços, focada em transmitir credibilidade e facilitar a conversão de novos clientes através de um fluxo de cadastro e login intuitivo.
+
+
 # 🎨 Documentação: Design System
 
 ### 1. Tipografia (Typography)
