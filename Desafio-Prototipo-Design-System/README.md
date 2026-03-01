@@ -176,10 +176,15 @@ O projeto foi finalizado com foco em **escalabilidade**, **usabilidade** e **con
 - **Fluxo de Autenticação:** Telas de Login e Cadastro com formulários inteligentes e validação visual de campos.
 - **Página Institucional:** Estrutura de storytelling na página "Sobre Nós".
 
+# 🚀 Projeto Final: Landing Page Interativa
+Este projeto representa a conclusão do curso de UI/UX, consolidando o desenvolvimento de um Design System robusto e um protótipo de alta fidelidade totalmente navegável.
+
+### 🔗 Protótipo Navegável
+
 # 📸 Resultado Final (Mockups)
 
 ![alt text](/assets/desafioprojetonavegavel.png)
 
-# 🚀 Projeto Final: Landing Page Interativa
-Este projeto representa a conclusão do curso de UI/UX, consolidando o desenvolvimento de um Design System robusto e um protótipo de alta fidelidade totalmente navegável.
+
+
 
