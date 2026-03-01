@@ -188,7 +188,7 @@ O projeto conta com interações de prototipagem entre todas as telas principais
 
 # 📸 Resultado Final (Mockups)
 
-![alt text](/assets/desafioprojetonavegavel.png)
+![alt text](/assets/projetonavegavel.png)
 
 
 
