@@ -161,3 +161,6 @@ Focada na narrativa histórica da empresa:
 - **Composição:** Texto posicionado à direita para uma leitura fluida, seguido por um grande banner visual de **1280px x 738px**, ideal para fotos de equipe ou infraestrutura.
 
 ### 3. "O Que Nos Move" e "Nossa Visão"
+Estruturação de blocos de conteúdo intercalados (Z-pattern) para manter o engajamento do usuário:
+
+- **Layout:** Em um frame amplo de **1440px x 1024px**, os textos e imagens alternam posições, guiando o olhar através dos pilares da empresa.
