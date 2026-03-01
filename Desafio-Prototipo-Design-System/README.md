@@ -158,3 +158,6 @@ Esta tela foi projetada para transmitir autoridade e os valores da marca, utiliz
 Focada na narrativa histórica da empresa:
 
 - **Título da Seção:** **48px** na cor #0F172A (Neutro Dark), garantindo hierarquia clara.
+- **Composição:** Texto posicionado à direita para uma leitura fluida, seguido por um grande banner visual de **1280px x 738px**, ideal para fotos de equipe ou infraestrutura.
+
+### 3. "O Que Nos Move" e "Nossa Visão"
