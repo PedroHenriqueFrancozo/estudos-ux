@@ -4,6 +4,8 @@
 
 2. **Público-Alvo:** Pessoas que buscam soluções modernas e ágeis, que valorizam a facilidade de navegação e a clareza nas informações sobre a empresa e seus processos.
 
+3. **Solução Proposta (Escopo):** * Design System: Criação de uma identidade visual baseada na fonte Roboto e em uma paleta de cores verde esmeralda para transmitir confiança e frescor.
+
 # 🎨 Documentação: Design System
 
 ### 1. Tipografia (Typography)
