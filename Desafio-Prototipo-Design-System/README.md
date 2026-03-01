@@ -148,3 +148,6 @@ O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e 
 
 # 📖 Seção: Tela "Sobre Nós" e Storytelling Visual
 Esta tela foi projetada para transmitir autoridade e os valores da marca, utilizando uma composição equilibrada entre grandes ativos visuais e blocos de texto informativos.
+
+### 1. Header e Proposta de Valor
+- **Título de Impacto:** Utilização de um Heading robusto de **56px** ("Soluções inteligentes para o seu dia a dia").
