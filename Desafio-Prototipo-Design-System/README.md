@@ -172,3 +172,4 @@ O projeto foi finalizado com foco em **escalabilidade**, **usabilidade** e **con
 ### ✅ O que foi entregue:
 
 - **Design System Completo:** Guia de tipografia (Roboto), paleta de cores primárias, neutras e semânticas.
+- **Landing Page Dinâmica:** Seções de Hero, Serviços, "Venha nos Conhecer" e um Rodapé institucional completo.
