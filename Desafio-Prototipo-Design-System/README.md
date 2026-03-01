@@ -164,3 +164,4 @@ Focada na narrativa histórica da empresa:
 Estruturação de blocos de conteúdo intercalados (Z-pattern) para manter o engajamento do usuário:
 
 - **Layout:** Em um frame amplo de **1440px x 1024px**, os textos e imagens alternam posições, guiando o olhar através dos pilares da empresa.
+- **Estilo:** Manutenção da tipografia **Roboto** em pesos Bold para títulos e Regular para descrições.
