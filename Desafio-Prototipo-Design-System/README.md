@@ -184,7 +184,7 @@ O projeto conta com interações de prototipagem entre todas as telas principais
 
 - Links da Navbar direcionam para as respectivas seções e páginas.
 - Fluxo completo de alternância entre as telas de Login e Criar Conta.
-
+- Botões de ação (CTAs) configurados para simular a jornada do usuário.
 
 # 📸 Resultado Final (Mockups)
 
