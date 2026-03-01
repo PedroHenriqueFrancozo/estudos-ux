@@ -183,6 +183,8 @@ Este projeto representa a conclusão do curso de UI/UX, consolidando o desenvolv
 O projeto conta com interações de prototipagem entre todas as telas principais:
 
 - Links da Navbar direcionam para as respectivas seções e páginas.
+- Fluxo completo de alternância entre as telas de Login e Criar Conta.
+
 
 # 📸 Resultado Final (Mockups)
 
