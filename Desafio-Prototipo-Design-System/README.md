@@ -2,6 +2,7 @@
 
 1. **Objetivo do Projeto:** Desenvolver uma presença digital para uma empresa de serviços, focada em transmitir credibilidade e facilitar a conversão de novos clientes através de um fluxo de cadastro e login intuitivo.
 
+2. **Público-Alvo:** Pessoas que buscam soluções modernas e ágeis, que valorizam a facilidade de navegação e a clareza nas informações sobre a empresa e seus processos.
 
 # 🎨 Documentação: Design System
 
