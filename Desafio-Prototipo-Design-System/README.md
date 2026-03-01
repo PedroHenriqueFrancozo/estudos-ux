@@ -147,3 +147,4 @@ O formulário conta com 5 campos estratégicos (Nome, Telefone, E-mail, Senha e 
 - **Link de Login:** Texto de suporte para usuários que já possuem conta, facilitando a transição para a tela de Login através de um link destacado em verde, melhorando a navegabilidade.
 
 # 📖 Seção: Tela "Sobre Nós" e Storytelling Visual
+Esta tela foi projetada para transmitir autoridade e os valores da marca, utilizando uma composição equilibrada entre grandes ativos visuais e blocos de texto informativos.
