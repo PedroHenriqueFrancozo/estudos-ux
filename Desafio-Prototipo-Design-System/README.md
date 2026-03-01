@@ -7,6 +7,9 @@
 3. **Solução Proposta (Escopo):** * Design System: Criação de uma identidade visual baseada na fonte Roboto e em uma paleta de cores verde esmeralda para transmitir confiança e frescor.
     - **Experiência do Usuário (UX):** Organização de informações em seções claras (Hero, Serviços, Localização) e um fluxo de autenticação simplificado em Split Screen.
     - **Interface (UI):** Design limpo com uso de Auto Layout, componentes resilientes e transparências (60% de opacidade) para um visual moderno.
+    - **Interatividade:** Protótipo navegável que simula a jornada real do usuário, desde a descoberta na Home até o acesso à conta pessoal.
+
+
 
 # 🎨 Documentação: Design System
 
