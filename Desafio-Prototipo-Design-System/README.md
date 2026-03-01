@@ -9,7 +9,10 @@
     - **Interface (UI):** Design limpo com uso de Auto Layout, componentes resilientes e transparências (60% de opacidade) para um visual moderno.
     - **Interatividade:** Protótipo navegável que simula a jornada real do usuário, desde a descoberta na Home até o acesso à conta pessoal.
 
+4. Diferenciais de Design: * Navegação fixa (Navbar) para acesso rápido.
 
+- Uso de ícones semânticos para reduzir o esforço cognitivo no preenchimento de formulários.
+- Conexões visuais (curvas) entre seções para guiar o olhar do usuário.
 
 # 🎨 Documentação: Design System
 
