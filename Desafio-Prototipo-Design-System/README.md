@@ -155,3 +155,6 @@ Esta tela foi projetada para transmitir autoridade e os valores da marca, utiliz
 - **Ativo Visual:** Espaço dedicado para imagem de destaque no lado direito (**688px x 503px**), criando um equilíbrio assimétrico moderno.
 
 ### 2. Seção "Nossa Jornada"
+Focada na narrativa histórica da empresa:
+
+- **Título da Seção:** **48px** na cor #0F172A (Neutro Dark), garantindo hierarquia clara.
