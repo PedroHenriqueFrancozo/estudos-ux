@@ -264,3 +264,8 @@
   - Implementação de hierarquia visual e links de acessibilidade (Underline).
   - Uso de Componentes Master para escala e manutenção do sistema.
   - Reforço de UX através de links de alternância entre Login/Cadastro.
+
+- **01/03/2026**: Design de Páginas Institucionais e Storytelling.
+  - Criação da tela Sobre Nós com foco em hierarquia de larga escala (Heading 56px).
+  - Implementação de layouts em Z-pattern para seções de Missão e Visão.
+  - Uso de grandes áreas de respiro e imagens de alta dimensão (1280px+).
