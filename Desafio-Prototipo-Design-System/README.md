@@ -152,3 +152,6 @@ Esta tela foi projetada para transmitir autoridade e os valores da marca, utiliz
 ### 1. Header e Proposta de Valor
 - **Título de Impacto:** Utilização de um Heading robusto de **56px** ("Soluções inteligentes para o seu dia a dia").
 - **Apoio Textual:** Texto descritivo em **18px**, seguindo o padrão de legibilidade do Design System para o corpo de texto.
+- **Ativo Visual:** Espaço dedicado para imagem de destaque no lado direito (**688px x 503px**), criando um equilíbrio assimétrico moderno.
+
+### 2. Seção "Nossa Jornada"
