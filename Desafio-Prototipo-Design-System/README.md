@@ -180,6 +180,9 @@ O projeto foi finalizado com foco em **escalabilidade**, **usabilidade** e **con
 Este projeto representa a conclusão do curso de UI/UX, consolidando o desenvolvimento de um Design System robusto e um protótipo de alta fidelidade totalmente navegável.
 
 ### 🔗 Protótipo Navegável
+O projeto conta com interações de prototipagem entre todas as telas principais:
+
+- Links da Navbar direcionam para as respectivas seções e páginas.
 
 # 📸 Resultado Final (Mockups)
 
