@@ -269,3 +269,9 @@
   - Criação da tela Sobre Nós com foco em hierarquia de larga escala (Heading 56px).
   - Implementação de layouts em Z-pattern para seções de Missão e Visão.
   - Uso de grandes áreas de respiro e imagens de alta dimensão (1280px+).
+
+- **01/03/2026**: Finalização do Desafio de Design System e UI.
+  - Entrega do ecossistema completo de telas (Home, Login, Cadastro, Sobre).
+  - Documentação de fundamentos visuais e componentes.
+  - Validação de fluxo navegável e hierarquia de informação.
+  - Projeto pronto para portfólio e submissão.

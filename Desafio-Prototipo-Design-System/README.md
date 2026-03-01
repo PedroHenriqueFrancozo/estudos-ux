@@ -175,3 +175,8 @@ O projeto foi finalizado com foco em **escalabilidade**, **usabilidade** e **con
 - **Landing Page Dinâmica:** Seções de Hero, Serviços, "Venha nos Conhecer" e um Rodapé institucional completo.
 - **Fluxo de Autenticação:** Telas de Login e Cadastro com formulários inteligentes e validação visual de campos.
 - **Página Institucional:** Estrutura de storytelling na página "Sobre Nós".
+
+# 📸 Resultado Final (Mockups)
+
+![alt text](/assets/desafioprojetonavegavel.png)
+
